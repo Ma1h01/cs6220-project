@@ -4,7 +4,11 @@
 1. `python3 -m venv cs6200` - creates a virtual environment
 2. `source cs6200/bin/activate` - activates the env
 3. `pip install -r requirements.txt` - install all dependencies
-4. Download dataset from `danjacobellis/chexpert` in huggingface
+4. Download a subsampled ChestXpert dataset, which originally has ~410GB, with same amount of data in ~11GB. Either through:
+    1. Huggingface `danjacobellis/chexpert`, or
+    2. Kaggle `#!/bin/bash
+    curl -L -o ~/Downloads/chexpert-v10-small.zip\
+    https://www.kaggle.com/api/v1/datasets/download/willarevalo/chexpert-v10-small` - this download the dataset into your local directory instead of being cached in huggingface.
 
 ## How to request PACE GPU
 ### Local Dev/Testing
