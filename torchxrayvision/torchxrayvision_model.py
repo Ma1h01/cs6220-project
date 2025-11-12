@@ -323,13 +323,7 @@ try:
                 # 1. False Positive Distribution by Pathology (Bar Chart)
                 plt.figure(figsize=(12, 6))
                 pathology_fp_counts = df_results[df_results['False_Positives'] > 0].sort_values('False_Positives', ascending=True)
-                bars = plt.barh(pathology_fp_counts['Pathology'], pathology_fp_counts['False_Positives'])
-                
-                # Add exact numbers on the bars
-                for i, (bar, count) in enumerate(zip(bars, pathology_fp_counts['False_Positives'])):
-                    plt.text(bar.get_width() + 0.5, bar.get_y() + bar.get_height()/2, 
-                            f'{int(count)}', ha='left', va='center', fontweight='bold')
-                
+                plt.barh(pathology_fp_counts['Pathology'], pathology_fp_counts['False_Positives'])
                 plt.xlabel('Number of False Positives')
                 plt.ylabel('Pathology')
                 plt.title('False Positive Distribution by Pathology\n(Target Classes for Fine-tuning)')

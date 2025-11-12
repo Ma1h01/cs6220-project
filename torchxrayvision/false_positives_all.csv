@@ -1,0 +1,838 @@
+batch_idx,image_idx,actual_dataset_idx,image_path,pathology,ground_truth,prediction_prob,binary_prediction,model_idx,dataset_idx
+0,0,0,CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,Atelectasis,0.0,0.6563085913658142,1.0,0,0
+0,0,0,CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,Edema,0.0,0.6352198123931885,1.0,4,3
+0,2,2,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,Atelectasis,0.0,0.6858860850334167,1.0,0,0
+0,2,2,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,Consolidation,0.0,0.6443116664886475,1.0,1,2
+0,2,2,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,Effusion,0.0,0.6570227146148682,1.0,7,8
+0,2,2,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,Pneumonia,0.0,0.6699579358100891,1.0,8,10
+0,2,2,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6762121915817261,1.0,10,1
+0,2,2,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6654908657073975,1.0,14,6
+0,2,2,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,Fracture,0.0,0.6840118765830994,1.0,15,5
+1,0,4,CheXpert-v1.0-small/valid/patient64545/study1/view1_frontal.jpg,Consolidation,0.0,0.6388670206069946,1.0,1,2
+1,0,4,CheXpert-v1.0-small/valid/patient64545/study1/view1_frontal.jpg,Edema,0.0,0.6715450882911682,1.0,4,3
+1,0,4,CheXpert-v1.0-small/valid/patient64545/study1/view1_frontal.jpg,Fracture,0.0,0.6498589515686035,1.0,15,5
+1,1,5,CheXpert-v1.0-small/valid/patient64546/study1/view1_frontal.jpg,Consolidation,0.0,0.6289128661155701,1.0,1,2
+1,1,5,CheXpert-v1.0-small/valid/patient64546/study1/view1_frontal.jpg,Edema,0.0,0.6793462634086609,1.0,4,3
+1,1,5,CheXpert-v1.0-small/valid/patient64546/study1/view1_frontal.jpg,Effusion,0.0,0.6657718420028687,1.0,7,8
+1,2,6,CheXpert-v1.0-small/valid/patient64547/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6266611814498901,1.0,14,6
+1,2,6,CheXpert-v1.0-small/valid/patient64547/study1/view1_frontal.jpg,Fracture,0.0,0.6276445984840393,1.0,15,5
+2,0,8,CheXpert-v1.0-small/valid/patient64548/study1/view1_frontal.jpg,Edema,0.0,0.7094364166259766,1.0,4,3
+2,0,8,CheXpert-v1.0-small/valid/patient64548/study1/view1_frontal.jpg,Lung Lesion,0.0,0.7063769102096558,1.0,14,6
+2,0,8,CheXpert-v1.0-small/valid/patient64548/study1/view1_frontal.jpg,Fracture,0.0,0.6838716864585876,1.0,15,5
+2,1,9,CheXpert-v1.0-small/valid/patient64549/study1/view1_frontal.jpg,Atelectasis,0.0,0.6282216906547546,1.0,0,0
+2,2,10,CheXpert-v1.0-small/valid/patient64550/study1/view1_frontal.jpg,Atelectasis,0.0,0.6376089453697205,1.0,0,0
+2,2,10,CheXpert-v1.0-small/valid/patient64550/study1/view1_frontal.jpg,Fracture,0.0,0.6340831518173218,1.0,15,5
+2,2,10,CheXpert-v1.0-small/valid/patient64550/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6318312883377075,1.0,16,7
+3,0,12,CheXpert-v1.0-small/valid/patient64552/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6287486553192139,1.0,14,6
+3,0,12,CheXpert-v1.0-small/valid/patient64552/study1/view1_frontal.jpg,Fracture,0.0,0.626454770565033,1.0,15,5
+3,1,13,CheXpert-v1.0-small/valid/patient64553/study1/view1_frontal.jpg,Atelectasis,0.0,0.6274917125701904,1.0,0,0
+3,1,13,CheXpert-v1.0-small/valid/patient64553/study1/view1_frontal.jpg,Edema,0.0,0.6295551061630249,1.0,4,3
+3,3,15,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6327459812164307,1.0,3,11
+3,3,15,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,Effusion,0.0,0.7115510702133179,1.0,7,8
+3,3,15,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,Pneumonia,0.0,0.6805183291435242,1.0,8,10
+3,3,15,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6876706480979919,1.0,10,1
+3,3,15,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6651074290275574,1.0,14,6
+3,3,15,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,Fracture,0.0,0.6438195109367371,1.0,15,5
+3,3,15,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6395972371101379,1.0,17,4
+4,1,17,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,Atelectasis,0.0,0.697409451007843,1.0,0,0
+4,1,17,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,Consolidation,0.0,0.643227219581604,1.0,1,2
+4,1,17,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,Effusion,0.0,0.6835131645202637,1.0,7,8
+4,1,17,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,Pneumonia,0.0,0.632013201713562,1.0,8,10
+4,1,17,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.71671462059021,1.0,10,1
+4,3,19,CheXpert-v1.0-small/valid/patient64559/study1/view1_frontal.jpg,Fracture,0.0,0.6287458539009094,1.0,15,5
+5,0,20,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,Consolidation,0.0,0.6269736886024475,1.0,1,2
+5,0,20,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,Edema,0.0,0.6407628059387207,1.0,4,3
+5,0,20,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,Effusion,0.0,0.6304070353507996,1.0,7,8
+5,0,20,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,Pneumonia,0.0,0.6341683864593506,1.0,8,10
+5,0,20,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6783124208450317,1.0,10,1
+5,0,20,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6309270858764648,1.0,14,6
+5,0,20,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6420001983642578,1.0,17,4
+5,1,21,CheXpert-v1.0-small/valid/patient64561/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6255958676338196,1.0,3,11
+5,1,21,CheXpert-v1.0-small/valid/patient64561/study1/view1_frontal.jpg,Fracture,0.0,0.6353885531425476,1.0,15,5
+5,3,23,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,Atelectasis,0.0,0.6677387356758118,1.0,0,0
+5,3,23,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,Consolidation,0.0,0.6258823871612549,1.0,1,2
+5,3,23,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,Effusion,0.0,0.6396684050559998,1.0,7,8
+5,3,23,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,Pneumonia,0.0,0.6259538531303406,1.0,8,10
+5,3,23,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,Fracture,0.0,0.6256183981895447,1.0,15,5
+6,0,24,CheXpert-v1.0-small/valid/patient64564/study1/view1_frontal.jpg,Consolidation,0.0,0.634103536605835,1.0,1,2
+6,0,24,CheXpert-v1.0-small/valid/patient64564/study1/view1_frontal.jpg,Effusion,0.0,0.6618869304656982,1.0,7,8
+6,0,24,CheXpert-v1.0-small/valid/patient64564/study1/view1_frontal.jpg,Pneumonia,0.0,0.6310725808143616,1.0,8,10
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Atelectasis,0.0,0.700529158115387,1.0,0,0
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Consolidation,0.0,0.638505220413208,1.0,1,2
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Edema,0.0,0.6823299527168274,1.0,4,3
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Effusion,0.0,0.6648639440536499,1.0,7,8
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Pneumonia,0.0,0.6561254858970642,1.0,8,10
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6444635391235352,1.0,14,6
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Fracture,0.0,0.6529136896133423,1.0,15,5
+6,1,25,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7013285756111145,1.0,16,7
+7,1,29,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,Consolidation,0.0,0.6757813692092896,1.0,1,2
+7,1,29,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6274887919425964,1.0,3,11
+7,1,29,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,Edema,0.0,0.670001208782196,1.0,4,3
+7,1,29,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,Effusion,0.0,0.7109331488609314,1.0,7,8
+7,1,29,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,Pneumonia,0.0,0.6375869512557983,1.0,8,10
+7,1,29,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6354677677154541,1.0,14,6
+7,1,29,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,Fracture,0.0,0.6355620622634888,1.0,15,5
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Atelectasis,0.0,0.640021562576294,1.0,0,0
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Consolidation,0.0,0.6264263987541199,1.0,1,2
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6271223425865173,1.0,3,11
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Edema,0.0,0.645429253578186,1.0,4,3
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Pneumonia,0.0,0.6254419684410095,1.0,8,10
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6381369233131409,1.0,10,1
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6344731450080872,1.0,14,6
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Fracture,0.0,0.629101037979126,1.0,15,5
+7,2,30,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6475717425346375,1.0,17,4
+7,3,31,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,Consolidation,0.0,0.7063485980033875,1.0,1,2
+7,3,31,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,Edema,0.0,0.683099091053009,1.0,4,3
+7,3,31,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,Pneumonia,0.0,0.6679851412773132,1.0,8,10
+7,3,31,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7040663361549377,1.0,10,1
+7,3,31,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6527234315872192,1.0,14,6
+7,3,31,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,Fracture,0.0,0.6558582186698914,1.0,15,5
+7,3,31,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.667724072933197,1.0,17,4
+8,1,33,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,Atelectasis,0.0,0.7029966115951538,1.0,0,0
+8,1,33,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,Consolidation,0.0,0.6715646982192993,1.0,1,2
+8,1,33,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,Effusion,0.0,0.7097501158714294,1.0,7,8
+8,1,33,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,Pneumonia,0.0,0.6476120352745056,1.0,8,10
+8,1,33,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6788639426231384,1.0,10,1
+8,1,33,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6281605958938599,1.0,14,6
+8,1,33,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,Fracture,0.0,0.6317678093910217,1.0,15,5
+8,2,34,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,Atelectasis,0.0,0.6786041259765625,1.0,0,0
+8,2,34,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,Consolidation,0.0,0.6286771893501282,1.0,1,2
+8,2,34,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,Edema,0.0,0.6441121697425842,1.0,4,3
+8,2,34,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,Effusion,0.0,0.6602279543876648,1.0,7,8
+8,2,34,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6740260720252991,1.0,16,7
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Atelectasis,0.0,0.7013275027275085,1.0,0,0
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Consolidation,0.0,0.6705970168113708,1.0,1,2
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6291598081588745,1.0,3,11
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Edema,0.0,0.6813041567802429,1.0,4,3
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Pneumonia,0.0,0.676167905330658,1.0,8,10
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6669045090675354,1.0,14,6
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Fracture,0.0,0.6435285210609436,1.0,15,5
+9,1,37,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7132711410522461,1.0,16,7
+9,3,39,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,Atelectasis,0.0,0.71738201379776,1.0,0,0
+9,3,39,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,Edema,0.0,0.709051251411438,1.0,4,3
+9,3,39,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,Effusion,0.0,0.708466649055481,1.0,7,8
+9,3,39,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7161654829978943,1.0,10,1
+9,3,39,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,Lung Lesion,0.0,0.7056336998939514,1.0,14,6
+9,3,39,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,Fracture,0.0,0.7062724232673645,1.0,15,5
+9,3,39,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6752449870109558,1.0,17,4
+10,0,40,CheXpert-v1.0-small/valid/patient64580/study1/view1_frontal.jpg,Edema,0.0,0.7206952571868896,1.0,4,3
+10,0,40,CheXpert-v1.0-small/valid/patient64580/study1/view1_frontal.jpg,Pneumonia,0.0,0.6802745461463928,1.0,8,10
+10,0,40,CheXpert-v1.0-small/valid/patient64580/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6639683246612549,1.0,14,6
+10,0,40,CheXpert-v1.0-small/valid/patient64580/study1/view1_frontal.jpg,Fracture,0.0,0.6665579676628113,1.0,15,5
+10,1,41,CheXpert-v1.0-small/valid/patient64581/study1/view1_frontal.jpg,Lung Lesion,0.0,0.643261730670929,1.0,14,6
+10,1,41,CheXpert-v1.0-small/valid/patient64581/study1/view1_frontal.jpg,Fracture,0.0,0.632383406162262,1.0,15,5
+10,1,41,CheXpert-v1.0-small/valid/patient64581/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6274763941764832,1.0,16,7
+10,1,41,CheXpert-v1.0-small/valid/patient64581/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6255424618721008,1.0,17,4
+10,2,42,CheXpert-v1.0-small/valid/patient64581/study1/view2_frontal.jpg,Lung Lesion,0.0,0.6293078064918518,1.0,14,6
+10,2,42,CheXpert-v1.0-small/valid/patient64581/study1/view2_frontal.jpg,Fracture,0.0,0.6263891458511353,1.0,15,5
+10,3,43,CheXpert-v1.0-small/valid/patient64582/study1/view1_frontal.jpg,Pneumonia,0.0,0.6426571607589722,1.0,8,10
+10,3,43,CheXpert-v1.0-small/valid/patient64582/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7137550711631775,1.0,10,1
+10,3,43,CheXpert-v1.0-small/valid/patient64582/study1/view1_frontal.jpg,Fracture,0.0,0.6258996725082397,1.0,15,5
+10,3,43,CheXpert-v1.0-small/valid/patient64582/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.659814178943634,1.0,17,4
+11,0,44,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6434276700019836,1.0,3,11
+11,0,44,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,Edema,0.0,0.6752113103866577,1.0,4,3
+11,0,44,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6436363458633423,1.0,10,1
+11,0,44,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6993700861930847,1.0,14,6
+11,0,44,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,Fracture,0.0,0.6878646016120911,1.0,15,5
+11,0,44,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6538603901863098,1.0,17,4
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Atelectasis,0.0,0.6880996823310852,1.0,0,0
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Consolidation,0.0,0.6731477975845337,1.0,1,2
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6336608529090881,1.0,3,11
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Edema,0.0,0.6882427334785461,1.0,4,3
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Effusion,0.0,0.6884070038795471,1.0,7,8
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Pneumonia,0.0,0.6393633484840393,1.0,8,10
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6437228918075562,1.0,14,6
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Fracture,0.0,0.6439757347106934,1.0,15,5
+11,2,46,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6998897194862366,1.0,16,7
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Atelectasis,0.0,0.6752914190292358,1.0,0,0
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Consolidation,0.0,0.65144944190979,1.0,1,2
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6292685866355896,1.0,3,11
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Edema,0.0,0.6799983382225037,1.0,4,3
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Effusion,0.0,0.6830459237098694,1.0,7,8
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6987610459327698,1.0,10,1
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6271407008171082,1.0,14,6
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Fracture,0.0,0.6392078399658203,1.0,15,5
+12,0,48,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6863333582878113,1.0,16,7
+12,2,50,CheXpert-v1.0-small/valid/patient64589/study1/view1_frontal.jpg,Atelectasis,0.0,0.6682307720184326,1.0,0,0
+12,2,50,CheXpert-v1.0-small/valid/patient64589/study1/view1_frontal.jpg,Effusion,0.0,0.6408116817474365,1.0,7,8
+12,2,50,CheXpert-v1.0-small/valid/patient64589/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6289984583854675,1.0,10,1
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Atelectasis,0.0,0.6305626034736633,1.0,0,0
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Consolidation,0.0,0.6340873837471008,1.0,1,2
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6259095668792725,1.0,3,11
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Edema,0.0,0.6335638761520386,1.0,4,3
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Pneumonia,0.0,0.6311895847320557,1.0,8,10
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6524171829223633,1.0,10,1
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Lung Lesion,0.0,0.633481502532959,1.0,14,6
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Fracture,0.0,0.6264997720718384,1.0,15,5
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6525281071662903,1.0,16,7
+12,3,51,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6405168175697327,1.0,17,4
+13,1,53,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,Consolidation,0.0,0.6901810169219971,1.0,1,2
+13,1,53,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,Edema,0.0,0.6676637530326843,1.0,4,3
+13,1,53,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,Effusion,0.0,0.7209662795066833,1.0,7,8
+13,1,53,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,Pneumonia,0.0,0.6478806138038635,1.0,8,10
+13,1,53,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6364706754684448,1.0,14,6
+13,1,53,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,Fracture,0.0,0.6323803067207336,1.0,15,5
+14,1,57,CheXpert-v1.0-small/valid/patient64596/study1/view1_frontal.jpg,Atelectasis,0.0,0.654331386089325,1.0,0,0
+14,1,57,CheXpert-v1.0-small/valid/patient64596/study1/view1_frontal.jpg,Consolidation,0.0,0.633890688419342,1.0,1,2
+14,1,57,CheXpert-v1.0-small/valid/patient64596/study1/view1_frontal.jpg,Fracture,0.0,0.6265816688537598,1.0,15,5
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Atelectasis,0.0,0.7240258455276489,1.0,0,0
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Consolidation,0.0,0.7126629948616028,1.0,1,2
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6304276585578918,1.0,3,11
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Edema,0.0,0.6990849375724792,1.0,4,3
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Effusion,0.0,0.7270947098731995,1.0,7,8
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Pneumonia,0.0,0.7024421691894531,1.0,8,10
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6998827457427979,1.0,10,1
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Lung Lesion,0.0,0.70308917760849,1.0,14,6
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Fracture,0.0,0.6949743628501892,1.0,15,5
+14,3,59,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6817930340766907,1.0,17,4
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Atelectasis,0.0,0.6762585043907166,1.0,0,0
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Consolidation,0.0,0.6433612108230591,1.0,1,2
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6320046782493591,1.0,3,11
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Effusion,0.0,0.6605132222175598,1.0,7,8
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Pneumonia,0.0,0.6754957437515259,1.0,8,10
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6487312316894531,1.0,10,1
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6799415946006775,1.0,14,6
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Fracture,0.0,0.6789000630378723,1.0,15,5
+15,1,61,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6309423446655273,1.0,17,4
+15,2,62,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,Atelectasis,0.0,0.6766015887260437,1.0,0,0
+15,2,62,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,Consolidation,0.0,0.6362194418907166,1.0,1,2
+15,2,62,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6260712146759033,1.0,3,11
+15,2,62,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,Effusion,0.0,0.64784175157547,1.0,7,8
+15,2,62,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,Pneumonia,0.0,0.6291398406028748,1.0,8,10
+15,2,62,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6290856599807739,1.0,14,6
+15,2,62,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,Fracture,0.0,0.6347305774688721,1.0,15,5
+15,3,63,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,Atelectasis,0.0,0.6603607535362244,1.0,0,0
+15,3,63,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,Consolidation,0.0,0.6328732967376709,1.0,1,2
+15,3,63,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,Edema,0.0,0.647730827331543,1.0,4,3
+15,3,63,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,Effusion,0.0,0.6300328969955444,1.0,7,8
+15,3,63,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,Lung Lesion,0.0,0.631930947303772,1.0,14,6
+15,3,63,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,Fracture,0.0,0.6451228857040405,1.0,15,5
+15,3,63,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6276664137840271,1.0,17,4
+16,0,64,CheXpert-v1.0-small/valid/patient64603/study1/view1_frontal.jpg,Consolidation,0.0,0.6855790615081787,1.0,1,2
+16,0,64,CheXpert-v1.0-small/valid/patient64603/study1/view1_frontal.jpg,Pneumonia,0.0,0.6819922924041748,1.0,8,10
+16,0,64,CheXpert-v1.0-small/valid/patient64603/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6915181875228882,1.0,14,6
+16,0,64,CheXpert-v1.0-small/valid/patient64603/study1/view1_frontal.jpg,Fracture,0.0,0.6949131488800049,1.0,15,5
+16,1,65,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,Atelectasis,0.0,0.6786134243011475,1.0,0,0
+16,1,65,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,Consolidation,0.0,0.6640862226486206,1.0,1,2
+16,1,65,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,Edema,0.0,0.6800456643104553,1.0,4,3
+16,1,65,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,Effusion,0.0,0.6917175054550171,1.0,7,8
+16,1,65,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,Pneumonia,0.0,0.6450210213661194,1.0,8,10
+16,1,65,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6322650909423828,1.0,14,6
+16,1,65,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6966477036476135,1.0,16,7
+16,2,66,CheXpert-v1.0-small/valid/patient64605/study1/view1_frontal.jpg,Atelectasis,0.0,0.6290203332901001,1.0,0,0
+16,2,66,CheXpert-v1.0-small/valid/patient64605/study1/view1_frontal.jpg,Edema,0.0,0.6374936699867249,1.0,4,3
+16,2,66,CheXpert-v1.0-small/valid/patient64605/study1/view1_frontal.jpg,Fracture,0.0,0.6428892612457275,1.0,15,5
+16,2,66,CheXpert-v1.0-small/valid/patient64605/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6262686252593994,1.0,16,7
+16,3,67,CheXpert-v1.0-small/valid/patient64606/study1/view1_frontal.jpg,Fracture,0.0,0.6286118030548096,1.0,15,5
+17,0,68,CheXpert-v1.0-small/valid/patient64607/study1/view1_frontal.jpg,Edema,0.0,0.630147397518158,1.0,4,3
+17,0,68,CheXpert-v1.0-small/valid/patient64607/study1/view1_frontal.jpg,Effusion,0.0,0.6300762295722961,1.0,7,8
+17,0,68,CheXpert-v1.0-small/valid/patient64607/study1/view1_frontal.jpg,Fracture,0.0,0.6345576047897339,1.0,15,5
+17,0,68,CheXpert-v1.0-small/valid/patient64607/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.64342200756073,1.0,17,4
+17,1,69,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,Consolidation,0.0,0.6465100049972534,1.0,1,2
+17,1,69,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6377508044242859,1.0,3,11
+17,1,69,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,Edema,0.0,0.6318022012710571,1.0,4,3
+17,1,69,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,Effusion,0.0,0.6957749724388123,1.0,7,8
+17,1,69,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,Pneumonia,0.0,0.6518983244895935,1.0,8,10
+17,1,69,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6525233387947083,1.0,14,6
+17,1,69,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,Fracture,0.0,0.6419740319252014,1.0,15,5
+17,2,70,CheXpert-v1.0-small/valid/patient64609/study1/view1_frontal.jpg,Consolidation,0.0,0.7120270133018494,1.0,1,2
+17,2,70,CheXpert-v1.0-small/valid/patient64609/study1/view1_frontal.jpg,Pneumonia,0.0,0.6932863593101501,1.0,8,10
+17,2,70,CheXpert-v1.0-small/valid/patient64609/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6867803335189819,1.0,14,6
+17,2,70,CheXpert-v1.0-small/valid/patient64609/study1/view1_frontal.jpg,Fracture,0.0,0.6917662024497986,1.0,15,5
+17,3,71,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,Atelectasis,0.0,0.7079071402549744,1.0,0,0
+17,3,71,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,Consolidation,0.0,0.6605032682418823,1.0,1,2
+17,3,71,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,Effusion,0.0,0.694749653339386,1.0,7,8
+17,3,71,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,Pneumonia,0.0,0.6453994512557983,1.0,8,10
+17,3,71,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6376791596412659,1.0,14,6
+17,3,71,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,Fracture,0.0,0.6430220603942871,1.0,15,5
+18,0,72,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,Atelectasis,0.0,0.6901612281799316,1.0,0,0
+18,0,72,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,Consolidation,0.0,0.6450831890106201,1.0,1,2
+18,0,72,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,Effusion,0.0,0.6903384923934937,1.0,7,8
+18,0,72,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,Pneumonia,0.0,0.6404144763946533,1.0,8,10
+18,1,73,CheXpert-v1.0-small/valid/patient64612/study1/view1_frontal.jpg,Consolidation,0.0,0.6305526494979858,1.0,1,2
+18,1,73,CheXpert-v1.0-small/valid/patient64612/study1/view1_frontal.jpg,Edema,0.0,0.6520376801490784,1.0,4,3
+18,1,73,CheXpert-v1.0-small/valid/patient64612/study1/view1_frontal.jpg,Fracture,0.0,0.6266077160835266,1.0,15,5
+18,2,74,CheXpert-v1.0-small/valid/patient64613/study1/view1_frontal.jpg,Pneumothorax,0.0,0.628061056137085,1.0,3,11
+18,2,74,CheXpert-v1.0-small/valid/patient64613/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6260339021682739,1.0,14,6
+18,2,74,CheXpert-v1.0-small/valid/patient64613/study1/view1_frontal.jpg,Fracture,0.0,0.6271090507507324,1.0,15,5
+18,3,75,CheXpert-v1.0-small/valid/patient64614/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6433374881744385,1.0,10,1
+18,3,75,CheXpert-v1.0-small/valid/patient64614/study1/view1_frontal.jpg,Fracture,0.0,0.6253856420516968,1.0,15,5
+18,3,75,CheXpert-v1.0-small/valid/patient64614/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6306376457214355,1.0,17,4
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Atelectasis,0.0,0.7003744840621948,1.0,0,0
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Consolidation,0.0,0.6752500534057617,1.0,1,2
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6318961381912231,1.0,3,11
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Edema,0.0,0.646872341632843,1.0,4,3
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Effusion,0.0,0.7024243474006653,1.0,7,8
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Pneumonia,0.0,0.6722766757011414,1.0,8,10
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6659881472587585,1.0,10,1
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6794578433036804,1.0,14,6
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Fracture,0.0,0.6686957478523254,1.0,15,5
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7149195075035095,1.0,16,7
+19,1,77,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6597252488136292,1.0,17,4
+19,2,78,CheXpert-v1.0-small/valid/patient64617/study1/view1_frontal.jpg,Atelectasis,0.0,0.629176139831543,1.0,0,0
+19,2,78,CheXpert-v1.0-small/valid/patient64617/study1/view1_frontal.jpg,Edema,0.0,0.6298482418060303,1.0,4,3
+19,2,78,CheXpert-v1.0-small/valid/patient64617/study1/view1_frontal.jpg,Fracture,0.0,0.6271341443061829,1.0,15,5
+20,0,80,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,Consolidation,0.0,0.6497073173522949,1.0,1,2
+20,0,80,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6301050782203674,1.0,3,11
+20,0,80,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,Edema,0.0,0.6718509197235107,1.0,4,3
+20,0,80,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,Pneumonia,0.0,0.6496992111206055,1.0,8,10
+20,0,80,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6709051728248596,1.0,10,1
+20,0,80,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6571694016456604,1.0,14,6
+20,0,80,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,Fracture,0.0,0.6436179876327515,1.0,15,5
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Consolidation,0.0,0.70073401927948,1.0,1,2
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Pneumothorax,0.0,0.646784245967865,1.0,3,11
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Edema,0.0,0.7009050250053406,1.0,4,3
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Pneumonia,0.0,0.6458404064178467,1.0,8,10
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6814587712287903,1.0,10,1
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Lung Lesion,0.0,0.661605715751648,1.0,14,6
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Fracture,0.0,0.6661351323127747,1.0,15,5
+20,1,81,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6903471946716309,1.0,17,4
+20,2,82,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,Atelectasis,0.0,0.6706491708755493,1.0,0,0
+20,2,82,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,Consolidation,0.0,0.6308693289756775,1.0,1,2
+20,2,82,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,Edema,0.0,0.6337009072303772,1.0,4,3
+20,2,82,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,Effusion,0.0,0.6694652438163757,1.0,7,8
+20,2,82,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6671437621116638,1.0,16,7
+20,3,83,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,Atelectasis,0.0,0.6808767318725586,1.0,0,0
+20,3,83,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,Consolidation,0.0,0.6440975666046143,1.0,1,2
+20,3,83,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,Pneumothorax,0.0,0.634798526763916,1.0,3,11
+20,3,83,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,Effusion,0.0,0.6939774751663208,1.0,7,8
+20,3,83,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,Pneumonia,0.0,0.6295678615570068,1.0,8,10
+20,3,83,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,Fracture,0.0,0.6287623047828674,1.0,15,5
+21,0,84,CheXpert-v1.0-small/valid/patient64623/study1/view1_frontal.jpg,Pneumonia,0.0,0.6413179636001587,1.0,8,10
+21,1,85,CheXpert-v1.0-small/valid/patient64624/study1/view1_frontal.jpg,Edema,0.0,0.680534839630127,1.0,4,3
+21,1,85,CheXpert-v1.0-small/valid/patient64624/study1/view1_frontal.jpg,Effusion,0.0,0.6459232568740845,1.0,7,8
+21,3,87,CheXpert-v1.0-small/valid/patient64626/study1/view1_frontal.jpg,Atelectasis,0.0,0.6482393741607666,1.0,0,0
+21,3,87,CheXpert-v1.0-small/valid/patient64626/study1/view1_frontal.jpg,Edema,0.0,0.6339594125747681,1.0,4,3
+21,3,87,CheXpert-v1.0-small/valid/patient64626/study1/view1_frontal.jpg,Fracture,0.0,0.6297567486763,1.0,15,5
+21,3,87,CheXpert-v1.0-small/valid/patient64626/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6361091136932373,1.0,16,7
+22,2,90,CheXpert-v1.0-small/valid/patient64629/study1/view1_frontal.jpg,Fracture,0.0,0.6361687779426575,1.0,15,5
+22,2,90,CheXpert-v1.0-small/valid/patient64629/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.630393922328949,1.0,17,4
+22,3,91,CheXpert-v1.0-small/valid/patient64630/study1/view1_frontal.jpg,Edema,0.0,0.6996944546699524,1.0,4,3
+22,3,91,CheXpert-v1.0-small/valid/patient64630/study1/view1_frontal.jpg,Pneumonia,0.0,0.6518615484237671,1.0,8,10
+22,3,91,CheXpert-v1.0-small/valid/patient64630/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6371333003044128,1.0,14,6
+22,3,91,CheXpert-v1.0-small/valid/patient64630/study1/view1_frontal.jpg,Fracture,0.0,0.6512199640274048,1.0,15,5
+23,0,92,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,Atelectasis,0.0,0.6571284532546997,1.0,0,0
+23,0,92,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,Consolidation,0.0,0.6252791881561279,1.0,1,2
+23,0,92,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,Edema,0.0,0.6386365294456482,1.0,4,3
+23,0,92,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6313343644142151,1.0,10,1
+23,0,92,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6555150151252747,1.0,16,7
+23,1,93,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,Atelectasis,0.0,0.687391459941864,1.0,0,0
+23,1,93,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,Consolidation,0.0,0.6382256746292114,1.0,1,2
+23,1,93,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,Edema,0.0,0.6455802917480469,1.0,4,3
+23,1,93,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,Effusion,0.0,0.6833531260490417,1.0,7,8
+23,1,93,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6266805529594421,1.0,17,4
+23,2,94,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,Consolidation,0.0,0.7124423384666443,1.0,1,2
+23,2,94,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6364696621894836,1.0,3,11
+23,2,94,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,Pneumonia,0.0,0.681999146938324,1.0,8,10
+23,2,94,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6716552376747131,1.0,14,6
+23,2,94,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,Fracture,0.0,0.6522921919822693,1.0,15,5
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Atelectasis,0.0,0.7068395614624023,1.0,0,0
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Consolidation,0.0,0.6882157325744629,1.0,1,2
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6262592673301697,1.0,3,11
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Edema,0.0,0.6949429512023926,1.0,4,3
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Effusion,0.0,0.7197464108467102,1.0,7,8
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Pneumonia,0.0,0.6611955165863037,1.0,8,10
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7187751531600952,1.0,10,1
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6508281230926514,1.0,14,6
+23,3,95,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,Fracture,0.0,0.6322839260101318,1.0,15,5
+24,0,96,CheXpert-v1.0-small/valid/patient64635/study1/view1_frontal.jpg,Consolidation,0.0,0.6350419521331787,1.0,1,2
+24,0,96,CheXpert-v1.0-small/valid/patient64635/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6803409457206726,1.0,10,1
+24,1,97,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,Atelectasis,0.0,0.6830472946166992,1.0,0,0
+24,1,97,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,Consolidation,0.0,0.6278974413871765,1.0,1,2
+24,1,97,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,Edema,0.0,0.6629596948623657,1.0,4,3
+24,1,97,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,Pneumonia,0.0,0.6315337419509888,1.0,8,10
+24,1,97,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6291583776473999,1.0,14,6
+24,1,97,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,Fracture,0.0,0.638481080532074,1.0,15,5
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Atelectasis,0.0,0.6736286282539368,1.0,0,0
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Consolidation,0.0,0.636753261089325,1.0,1,2
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6347523927688599,1.0,3,11
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Edema,0.0,0.6665477156639099,1.0,4,3
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Effusion,0.0,0.6773619651794434,1.0,7,8
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6288600564002991,1.0,14,6
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Fracture,0.0,0.6392106413841248,1.0,15,5
+24,2,98,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6846149563789368,1.0,16,7
+24,3,99,CheXpert-v1.0-small/valid/patient64638/study1/view1_frontal.jpg,Edema,0.0,0.6385306119918823,1.0,4,3
+25,0,100,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6343488693237305,1.0,3,11
+25,0,100,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,Edema,0.0,0.7133389711380005,1.0,4,3
+25,0,100,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,Pneumonia,0.0,0.6722168922424316,1.0,8,10
+25,0,100,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,Lung Lesion,0.0,0.688851535320282,1.0,14,6
+25,0,100,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,Fracture,0.0,0.6854199767112732,1.0,15,5
+25,1,101,CheXpert-v1.0-small/valid/patient64640/study1/view1_frontal.jpg,Pneumonia,0.0,0.6434966921806335,1.0,8,10
+25,1,101,CheXpert-v1.0-small/valid/patient64640/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6824615001678467,1.0,10,1
+25,1,101,CheXpert-v1.0-small/valid/patient64640/study1/view1_frontal.jpg,Fracture,0.0,0.6328679323196411,1.0,15,5
+25,2,102,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,Pneumothorax,0.0,0.637696385383606,1.0,3,11
+25,2,102,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,Edema,0.0,0.696255624294281,1.0,4,3
+25,2,102,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,Effusion,0.0,0.7259790897369385,1.0,7,8
+25,2,102,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,Pneumonia,0.0,0.6664813756942749,1.0,8,10
+25,2,102,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6513181924819946,1.0,14,6
+25,2,102,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,Fracture,0.0,0.6312065124511719,1.0,15,5
+25,3,103,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,Atelectasis,0.0,0.7007641196250916,1.0,0,0
+25,3,103,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,Consolidation,0.0,0.6422845721244812,1.0,1,2
+25,3,103,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6321629285812378,1.0,3,11
+25,3,103,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,Effusion,0.0,0.7031387090682983,1.0,7,8
+25,3,103,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,Pneumonia,0.0,0.6325670480728149,1.0,8,10
+26,0,104,CheXpert-v1.0-small/valid/patient64643/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6351704001426697,1.0,10,1
+26,0,104,CheXpert-v1.0-small/valid/patient64643/study1/view1_frontal.jpg,Fracture,0.0,0.6267358064651489,1.0,15,5
+26,0,104,CheXpert-v1.0-small/valid/patient64643/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6418530344963074,1.0,17,4
+26,1,105,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,Consolidation,0.0,0.6666591167449951,1.0,1,2
+26,1,105,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,Edema,0.0,0.672382652759552,1.0,4,3
+26,1,105,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,Pneumonia,0.0,0.6404195427894592,1.0,8,10
+26,1,105,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6300246715545654,1.0,14,6
+26,1,105,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,Fracture,0.0,0.647159993648529,1.0,15,5
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Atelectasis,0.0,0.7041530609130859,1.0,0,0
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Consolidation,0.0,0.6947696805000305,1.0,1,2
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Pneumothorax,0.0,0.653631329536438,1.0,3,11
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Edema,0.0,0.687270998954773,1.0,4,3
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Pneumonia,0.0,0.6618826389312744,1.0,8,10
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6337174773216248,1.0,10,1
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6586748957633972,1.0,14,6
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Fracture,0.0,0.6349833011627197,1.0,15,5
+26,2,106,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6453191637992859,1.0,17,4
+26,3,107,CheXpert-v1.0-small/valid/patient64646/study1/view1_frontal.jpg,Atelectasis,0.0,0.659235954284668,1.0,0,0
+26,3,107,CheXpert-v1.0-small/valid/patient64646/study1/view1_frontal.jpg,Edema,0.0,0.6260404586791992,1.0,4,3
+26,3,107,CheXpert-v1.0-small/valid/patient64646/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6432077884674072,1.0,16,7
+27,1,109,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,Consolidation,0.0,0.6432968974113464,1.0,1,2
+27,1,109,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6347959637641907,1.0,3,11
+27,1,109,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,Edema,0.0,0.6938114762306213,1.0,4,3
+27,1,109,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,Effusion,0.0,0.7019495368003845,1.0,7,8
+27,1,109,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7155705094337463,1.0,10,1
+27,2,110,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,Consolidation,0.0,0.6929598450660706,1.0,1,2
+27,2,110,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6587838530540466,1.0,3,11
+27,2,110,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,Edema,0.0,0.6846569776535034,1.0,4,3
+27,2,110,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,Pneumonia,0.0,0.6874827742576599,1.0,8,10
+27,2,110,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,Lung Lesion,0.0,0.7012144923210144,1.0,14,6
+27,2,110,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,Fracture,0.0,0.6894619464874268,1.0,15,5
+27,2,110,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6353442072868347,1.0,17,4
+27,3,111,CheXpert-v1.0-small/valid/patient64650/study1/view1_frontal.jpg,Pneumonia,0.0,0.6592038869857788,1.0,8,10
+27,3,111,CheXpert-v1.0-small/valid/patient64650/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6279017329216003,1.0,14,6
+28,0,112,CheXpert-v1.0-small/valid/patient64651/study1/view1_frontal.jpg,Atelectasis,0.0,0.6272810101509094,1.0,0,0
+28,0,112,CheXpert-v1.0-small/valid/patient64651/study1/view1_frontal.jpg,Edema,0.0,0.6382361054420471,1.0,4,3
+28,0,112,CheXpert-v1.0-small/valid/patient64651/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6277993321418762,1.0,16,7
+28,1,113,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,Pneumothorax,0.0,0.667629063129425,1.0,3,11
+28,1,113,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,Edema,0.0,0.7031800150871277,1.0,4,3
+28,1,113,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6469517350196838,1.0,10,1
+28,1,113,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,Lung Lesion,0.0,0.7017991542816162,1.0,14,6
+28,1,113,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,Fracture,0.0,0.6682010293006897,1.0,15,5
+28,1,113,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6826093792915344,1.0,17,4
+28,2,114,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,Atelectasis,0.0,0.7006569504737854,1.0,0,0
+28,2,114,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6279580593109131,1.0,3,11
+28,2,114,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,Edema,0.0,0.7056741118431091,1.0,4,3
+28,2,114,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,Pneumonia,0.0,0.6300277709960938,1.0,8,10
+28,2,114,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6464139223098755,1.0,10,1
+28,2,114,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6275071501731873,1.0,14,6
+28,2,114,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,Fracture,0.0,0.6337727904319763,1.0,15,5
+28,3,115,CheXpert-v1.0-small/valid/patient64654/study1/view1_frontal.jpg,Consolidation,0.0,0.6310980319976807,1.0,1,2
+28,3,115,CheXpert-v1.0-small/valid/patient64654/study1/view1_frontal.jpg,Edema,0.0,0.6581450700759888,1.0,4,3
+28,3,115,CheXpert-v1.0-small/valid/patient64654/study1/view1_frontal.jpg,Fracture,0.0,0.6294094920158386,1.0,15,5
+29,0,116,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,Consolidation,0.0,0.7067844867706299,1.0,1,2
+29,0,116,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,Edema,0.0,0.6803485155105591,1.0,4,3
+29,0,116,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,Pneumonia,0.0,0.6354050040245056,1.0,8,10
+29,0,116,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6253621578216553,1.0,14,6
+29,0,116,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,Fracture,0.0,0.6424649357795715,1.0,15,5
+29,1,117,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,Consolidation,0.0,0.6732390522956848,1.0,1,2
+29,1,117,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6253310441970825,1.0,3,11
+29,1,117,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,Effusion,0.0,0.7062978744506836,1.0,7,8
+29,1,117,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,Pneumonia,0.0,0.6473889946937561,1.0,8,10
+29,1,117,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6767141222953796,1.0,10,1
+29,2,118,CheXpert-v1.0-small/valid/patient64657/study1/view1_frontal.jpg,Pneumonia,0.0,0.6502130031585693,1.0,8,10
+29,3,119,CheXpert-v1.0-small/valid/patient64658/study1/view1_frontal.jpg,Consolidation,0.0,0.6264951229095459,1.0,1,2
+29,3,119,CheXpert-v1.0-small/valid/patient64658/study1/view1_frontal.jpg,Edema,0.0,0.6357725262641907,1.0,4,3
+29,3,119,CheXpert-v1.0-small/valid/patient64658/study1/view1_frontal.jpg,Effusion,0.0,0.6374388933181763,1.0,7,8
+30,0,120,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,Consolidation,0.0,0.6740932464599609,1.0,1,2
+30,0,120,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,Edema,0.0,0.6970584988594055,1.0,4,3
+30,0,120,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,Pneumonia,0.0,0.6311368942260742,1.0,8,10
+30,0,120,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6694978475570679,1.0,10,1
+30,0,120,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6348739266395569,1.0,17,4
+30,1,121,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,Consolidation,0.0,0.6934983730316162,1.0,1,2
+30,1,121,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,Edema,0.0,0.7025912404060364,1.0,4,3
+30,1,121,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,Pneumonia,0.0,0.6469934582710266,1.0,8,10
+30,1,121,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6295294761657715,1.0,14,6
+30,1,121,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,Fracture,0.0,0.629143238067627,1.0,15,5
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Atelectasis,0.0,0.6951779723167419,1.0,0,0
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Consolidation,0.0,0.6724376082420349,1.0,1,2
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6509624123573303,1.0,3,11
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Edema,0.0,0.6929498910903931,1.0,4,3
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Effusion,0.0,0.7105053067207336,1.0,7,8
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Pneumonia,0.0,0.650925874710083,1.0,8,10
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6859056949615479,1.0,10,1
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6438948512077332,1.0,14,6
+30,2,122,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,Fracture,0.0,0.6269193887710571,1.0,15,5
+30,3,123,CheXpert-v1.0-small/valid/patient64662/study1/view1_frontal.jpg,Edema,0.0,0.6253846287727356,1.0,4,3
+31,0,124,CheXpert-v1.0-small/valid/patient64663/study1/view1_frontal.jpg,Atelectasis,0.0,0.6980774998664856,1.0,0,0
+31,0,124,CheXpert-v1.0-small/valid/patient64663/study1/view1_frontal.jpg,Effusion,0.0,0.7115157246589661,1.0,7,8
+31,0,124,CheXpert-v1.0-small/valid/patient64663/study1/view1_frontal.jpg,Pneumonia,0.0,0.6321391463279724,1.0,8,10
+31,1,125,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,Consolidation,0.0,0.6648367047309875,1.0,1,2
+31,1,125,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6420064568519592,1.0,3,11
+31,1,125,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,Effusion,0.0,0.6952227354049683,1.0,7,8
+31,1,125,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,Pneumonia,0.0,0.6480488181114197,1.0,8,10
+31,1,125,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6290026307106018,1.0,14,6
+31,2,126,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,Atelectasis,0.0,0.6987334489822388,1.0,0,0
+31,2,126,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,Consolidation,0.0,0.651425302028656,1.0,1,2
+31,2,126,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,Edema,0.0,0.6799440979957581,1.0,4,3
+31,2,126,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,Effusion,0.0,0.6992331743240356,1.0,7,8
+31,2,126,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,Pneumonia,0.0,0.6341782212257385,1.0,8,10
+31,2,126,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,Lung Opacity,0.0,0.699478268623352,1.0,16,7
+31,3,127,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,Consolidation,0.0,0.6641400456428528,1.0,1,2
+31,3,127,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,Edema,0.0,0.6946890354156494,1.0,4,3
+31,3,127,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,Effusion,0.0,0.7121726274490356,1.0,7,8
+31,3,127,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,Pneumonia,0.0,0.6508444547653198,1.0,8,10
+31,3,127,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.676991879940033,1.0,10,1
+31,3,127,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6367661356925964,1.0,17,4
+32,0,128,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,Consolidation,0.0,0.6717618703842163,1.0,1,2
+32,0,128,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,Edema,0.0,0.6954213380813599,1.0,4,3
+32,0,128,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,Pneumonia,0.0,0.6410141587257385,1.0,8,10
+32,0,128,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.686303436756134,1.0,10,1
+32,0,128,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,Lung Lesion,0.0,0.626650869846344,1.0,14,6
+32,0,128,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,Fracture,0.0,0.62562495470047,1.0,15,5
+32,0,128,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6541562080383301,1.0,17,4
+32,1,129,CheXpert-v1.0-small/valid/patient64668/study1/view1_frontal.jpg,Pneumonia,0.0,0.6619601845741272,1.0,8,10
+32,1,129,CheXpert-v1.0-small/valid/patient64668/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7125391364097595,1.0,10,1
+32,1,129,CheXpert-v1.0-small/valid/patient64668/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6297499537467957,1.0,14,6
+32,2,130,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,Consolidation,0.0,0.7030539512634277,1.0,1,2
+32,2,130,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6349712014198303,1.0,3,11
+32,2,130,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,Effusion,0.0,0.7227442264556885,1.0,7,8
+32,2,130,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,Pneumonia,0.0,0.6864878535270691,1.0,8,10
+32,2,130,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6744534373283386,1.0,14,6
+32,2,130,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,Fracture,0.0,0.6509190797805786,1.0,15,5
+32,3,131,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,Consolidation,0.0,0.6657446622848511,1.0,1,2
+32,3,131,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,Edema,0.0,0.6800378561019897,1.0,4,3
+32,3,131,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6324864029884338,1.0,10,1
+32,3,131,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6323128342628479,1.0,17,4
+33,0,132,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,Atelectasis,0.0,0.696891725063324,1.0,0,0
+33,0,132,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,Consolidation,0.0,0.639457106590271,1.0,1,2
+33,0,132,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,Edema,0.0,0.6898431181907654,1.0,4,3
+33,0,132,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,Effusion,0.0,0.6912723779678345,1.0,7,8
+33,0,132,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,Pneumonia,0.0,0.6319448947906494,1.0,8,10
+33,0,132,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6985450983047485,1.0,16,7
+33,1,133,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,Atelectasis,0.0,0.7241164445877075,1.0,0,0
+33,1,133,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,Consolidation,0.0,0.6842092275619507,1.0,1,2
+33,1,133,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,Effusion,0.0,0.7166412472724915,1.0,7,8
+33,1,133,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,Pneumonia,0.0,0.7041038870811462,1.0,8,10
+33,1,133,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6988987922668457,1.0,14,6
+33,1,133,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,Fracture,0.0,0.7009422779083252,1.0,15,5
+33,2,134,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,Atelectasis,0.0,0.7208920121192932,1.0,0,0
+33,2,134,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,Edema,0.0,0.6855435967445374,1.0,4,3
+33,2,134,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,Pneumonia,0.0,0.6837255358695984,1.0,8,10
+33,2,134,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6959271430969238,1.0,14,6
+33,2,134,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,Fracture,0.0,0.7038860321044922,1.0,15,5
+33,3,135,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,Consolidation,0.0,0.7003830075263977,1.0,1,2
+33,3,135,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,Edema,0.0,0.6857163906097412,1.0,4,3
+33,3,135,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,Pneumonia,0.0,0.6472314596176147,1.0,8,10
+33,3,135,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6301093697547913,1.0,14,6
+33,3,135,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,Fracture,0.0,0.6352086067199707,1.0,15,5
+34,0,136,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,Consolidation,0.0,0.6821009516716003,1.0,1,2
+34,0,136,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,Edema,0.0,0.6534534692764282,1.0,4,3
+34,0,136,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,Effusion,0.0,0.7082920074462891,1.0,7,8
+34,0,136,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,Pneumonia,0.0,0.6259763836860657,1.0,8,10
+34,0,136,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,Fracture,0.0,0.6350296139717102,1.0,15,5
+34,1,137,CheXpert-v1.0-small/valid/patient64676/study1/view1_frontal.jpg,Edema,0.0,0.6737334728240967,1.0,4,3
+34,1,137,CheXpert-v1.0-small/valid/patient64676/study1/view1_frontal.jpg,Pneumonia,0.0,0.630331814289093,1.0,8,10
+34,1,137,CheXpert-v1.0-small/valid/patient64676/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6290588974952698,1.0,14,6
+34,1,137,CheXpert-v1.0-small/valid/patient64676/study1/view1_frontal.jpg,Fracture,0.0,0.6484602093696594,1.0,15,5
+34,2,138,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,Atelectasis,0.0,0.6677398681640625,1.0,0,0
+34,2,138,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,Consolidation,0.0,0.6311643123626709,1.0,1,2
+34,2,138,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,Edema,0.0,0.6817300319671631,1.0,4,3
+34,2,138,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,Effusion,0.0,0.6618871688842773,1.0,7,8
+34,2,138,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,Pneumonia,0.0,0.6269428133964539,1.0,8,10
+34,2,138,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,Fracture,0.0,0.6347845792770386,1.0,15,5
+34,2,138,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6746498942375183,1.0,16,7
+34,3,139,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,Consolidation,0.0,0.7141116857528687,1.0,1,2
+34,3,139,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6274053454399109,1.0,3,11
+34,3,139,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,Edema,0.0,0.7188790440559387,1.0,4,3
+34,3,139,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,Pneumonia,0.0,0.6710036993026733,1.0,8,10
+34,3,139,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7120540142059326,1.0,10,1
+34,3,139,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6692631244659424,1.0,14,6
+34,3,139,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,Fracture,0.0,0.6708025336265564,1.0,15,5
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Atelectasis,0.0,0.7020338177680969,1.0,0,0
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Consolidation,0.0,0.6763899326324463,1.0,1,2
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Edema,0.0,0.6946906447410583,1.0,4,3
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Effusion,0.0,0.7034792900085449,1.0,7,8
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Pneumonia,0.0,0.650844395160675,1.0,8,10
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6432232856750488,1.0,10,1
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6612619757652283,1.0,14,6
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Fracture,0.0,0.6593121886253357,1.0,15,5
+35,0,140,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7111949920654297,1.0,16,7
+35,2,142,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,Edema,0.0,0.6825107336044312,1.0,4,3
+35,2,142,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,Pneumonia,0.0,0.6455931067466736,1.0,8,10
+35,2,142,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7214014530181885,1.0,10,1
+35,2,142,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6251723766326904,1.0,14,6
+35,2,142,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,Fracture,0.0,0.6302422285079956,1.0,15,5
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Atelectasis,0.0,0.6753084063529968,1.0,0,0
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Consolidation,0.0,0.6737840175628662,1.0,1,2
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6328432559967041,1.0,3,11
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Edema,0.0,0.6677718758583069,1.0,4,3
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Pneumonia,0.0,0.6334707140922546,1.0,8,10
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6645697951316833,1.0,10,1
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6480269432067871,1.0,14,6
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Fracture,0.0,0.6737551689147949,1.0,15,5
+35,3,143,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6928902864456177,1.0,16,7
+36,0,144,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,Consolidation,0.0,0.7043308019638062,1.0,1,2
+36,0,144,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6588706374168396,1.0,3,11
+36,0,144,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,Edema,0.0,0.7004616260528564,1.0,4,3
+36,0,144,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,Pneumonia,0.0,0.6809720993041992,1.0,8,10
+36,0,144,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6406314373016357,1.0,10,1
+36,0,144,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6844510436058044,1.0,14,6
+36,0,144,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,Fracture,0.0,0.654736340045929,1.0,15,5
+36,1,145,CheXpert-v1.0-small/valid/patient64684/study1/view1_frontal.jpg,Edema,0.0,0.6709551811218262,1.0,4,3
+36,1,145,CheXpert-v1.0-small/valid/patient64684/study1/view1_frontal.jpg,Pneumonia,0.0,0.6273359060287476,1.0,8,10
+36,1,145,CheXpert-v1.0-small/valid/patient64684/study1/view1_frontal.jpg,Fracture,0.0,0.6298737525939941,1.0,15,5
+36,3,147,CheXpert-v1.0-small/valid/patient64686/study1/view1_frontal.jpg,Edema,0.0,0.6427394151687622,1.0,4,3
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Atelectasis,0.0,0.7080881595611572,1.0,0,0
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Consolidation,0.0,0.6880282163619995,1.0,1,2
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6322969794273376,1.0,3,11
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Edema,0.0,0.7053301930427551,1.0,4,3
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Effusion,0.0,0.7181218266487122,1.0,7,8
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Pneumonia,0.0,0.6440412998199463,1.0,8,10
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6404245495796204,1.0,14,6
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Fracture,0.0,0.6523443460464478,1.0,15,5
+37,0,148,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7176488637924194,1.0,16,7
+37,1,149,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,Atelectasis,0.0,0.6862833499908447,1.0,0,0
+37,1,149,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6323267817497253,1.0,3,11
+37,1,149,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,Pneumonia,0.0,0.6621414422988892,1.0,8,10
+37,1,149,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6389319896697998,1.0,10,1
+37,1,149,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6471403241157532,1.0,14,6
+37,2,150,CheXpert-v1.0-small/valid/patient64689/study1/view1_frontal.jpg,Pneumothorax,0.0,0.625957190990448,1.0,3,11
+37,2,150,CheXpert-v1.0-small/valid/patient64689/study1/view1_frontal.jpg,Edema,0.0,0.7156358957290649,1.0,4,3
+37,2,150,CheXpert-v1.0-small/valid/patient64689/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6860121488571167,1.0,14,6
+37,2,150,CheXpert-v1.0-small/valid/patient64689/study1/view1_frontal.jpg,Fracture,0.0,0.6816148161888123,1.0,15,5
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Atelectasis,0.0,0.7031522393226624,1.0,0,0
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Consolidation,0.0,0.6754766702651978,1.0,1,2
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6261336207389832,1.0,3,11
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Edema,0.0,0.7117960453033447,1.0,4,3
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Pneumonia,0.0,0.6745715737342834,1.0,8,10
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6594098210334778,1.0,10,1
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6608631014823914,1.0,14,6
+37,3,151,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,Fracture,0.0,0.680290162563324,1.0,15,5
+38,0,152,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,Atelectasis,0.0,0.6743294596672058,1.0,0,0
+38,0,152,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,Consolidation,0.0,0.6371857523918152,1.0,1,2
+38,0,152,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6297816038131714,1.0,3,11
+38,0,152,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,Edema,0.0,0.6616457104682922,1.0,4,3
+38,0,152,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,Pneumonia,0.0,0.6295990943908691,1.0,8,10
+38,0,152,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6319767832756042,1.0,14,6
+38,0,152,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,Fracture,0.0,0.6550734043121338,1.0,15,5
+38,1,153,CheXpert-v1.0-small/valid/patient64692/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6250669360160828,1.0,3,11
+38,1,153,CheXpert-v1.0-small/valid/patient64692/study1/view1_frontal.jpg,Edema,0.0,0.7060861587524414,1.0,4,3
+38,1,153,CheXpert-v1.0-small/valid/patient64692/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6686302423477173,1.0,14,6
+38,1,153,CheXpert-v1.0-small/valid/patient64692/study1/view1_frontal.jpg,Fracture,0.0,0.6362180709838867,1.0,15,5
+38,2,154,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,Consolidation,0.0,0.6888591647148132,1.0,1,2
+38,2,154,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,Edema,0.0,0.655580461025238,1.0,4,3
+38,2,154,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,Effusion,0.0,0.7139962911605835,1.0,7,8
+38,2,154,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,Pneumonia,0.0,0.6427279114723206,1.0,8,10
+38,2,154,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6326984167098999,1.0,14,6
+38,2,154,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,Fracture,0.0,0.6462042927742004,1.0,15,5
+38,3,155,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,Consolidation,0.0,0.6397477984428406,1.0,1,2
+38,3,155,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6461909413337708,1.0,3,11
+38,3,155,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,Edema,0.0,0.6631374359130859,1.0,4,3
+38,3,155,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,Pneumonia,0.0,0.6266400814056396,1.0,8,10
+38,3,155,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6379308104515076,1.0,14,6
+38,3,155,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,Fracture,0.0,0.6328458786010742,1.0,15,5
+39,0,156,CheXpert-v1.0-small/valid/patient64695/study1/view1_frontal.jpg,Atelectasis,0.0,0.6250371336936951,1.0,0,0
+39,0,156,CheXpert-v1.0-small/valid/patient64695/study1/view1_frontal.jpg,Edema,0.0,0.6421672105789185,1.0,4,3
+39,0,156,CheXpert-v1.0-small/valid/patient64695/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6259242296218872,1.0,17,4
+39,2,158,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,Consolidation,0.0,0.6851239204406738,1.0,1,2
+39,2,158,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,Effusion,0.0,0.7176628112792969,1.0,7,8
+39,2,158,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,Pneumonia,0.0,0.6379692554473877,1.0,8,10
+39,2,158,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7154408693313599,1.0,10,1
+39,2,158,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6350402235984802,1.0,14,6
+39,2,158,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,Fracture,0.0,0.6333065629005432,1.0,15,5
+39,3,159,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,Atelectasis,0.0,0.7068257331848145,1.0,0,0
+39,3,159,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,Consolidation,0.0,0.6921151280403137,1.0,1,2
+39,3,159,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,Effusion,0.0,0.7179694771766663,1.0,7,8
+39,3,159,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,Pneumonia,0.0,0.6685749292373657,1.0,8,10
+39,3,159,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6600087881088257,1.0,14,6
+39,3,159,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,Fracture,0.0,0.6454436779022217,1.0,15,5
+40,0,160,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,Consolidation,0.0,0.648322582244873,1.0,1,2
+40,0,160,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,Edema,0.0,0.6681646704673767,1.0,4,3
+40,0,160,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,Effusion,0.0,0.6984208226203918,1.0,7,8
+40,0,160,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,Pneumonia,0.0,0.6305452585220337,1.0,8,10
+40,0,160,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6508661508560181,1.0,10,1
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Atelectasis,0.0,0.7063765525817871,1.0,0,0
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Consolidation,0.0,0.6593717336654663,1.0,1,2
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Edema,0.0,0.659463107585907,1.0,4,3
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Effusion,0.0,0.7028224468231201,1.0,7,8
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Pneumonia,0.0,0.6520481109619141,1.0,8,10
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6779061555862427,1.0,14,6
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Fracture,0.0,0.6695547103881836,1.0,15,5
+40,1,161,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7101450562477112,1.0,16,7
+40,2,162,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,Consolidation,0.0,0.63266521692276,1.0,1,2
+40,2,162,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,Edema,0.0,0.6541178822517395,1.0,4,3
+40,2,162,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,Effusion,0.0,0.6499921083450317,1.0,7,8
+40,2,162,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,Pneumonia,0.0,0.6297225952148438,1.0,8,10
+40,3,163,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6272361278533936,1.0,3,11
+40,3,163,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,Edema,0.0,0.7124281525611877,1.0,4,3
+40,3,163,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,Pneumonia,0.0,0.6711379289627075,1.0,8,10
+40,3,163,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6755903363227844,1.0,14,6
+40,3,163,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,Fracture,0.0,0.681545078754425,1.0,15,5
+41,0,164,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,Edema,0.0,0.7104328870773315,1.0,4,3
+41,0,164,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,Pneumonia,0.0,0.6451655626296997,1.0,8,10
+41,0,164,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7048785090446472,1.0,10,1
+41,0,164,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,Fracture,0.0,0.6277384161949158,1.0,15,5
+41,0,164,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6464177370071411,1.0,17,4
+41,1,165,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,Atelectasis,0.0,0.686515748500824,1.0,0,0
+41,1,165,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6306506395339966,1.0,3,11
+41,1,165,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,Edema,0.0,0.6987400650978088,1.0,4,3
+41,1,165,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,Pneumonia,0.0,0.6290066838264465,1.0,8,10
+41,1,165,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6714231967926025,1.0,10,1
+41,1,165,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,Fracture,0.0,0.6345679759979248,1.0,15,5
+41,1,165,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6605814099311829,1.0,17,4
+41,2,166,CheXpert-v1.0-small/valid/patient64705/study1/view1_frontal.jpg,Atelectasis,0.0,0.6285736560821533,1.0,0,0
+41,2,166,CheXpert-v1.0-small/valid/patient64705/study1/view1_frontal.jpg,Fracture,0.0,0.6282018423080444,1.0,15,5
+41,3,167,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,Atelectasis,0.0,0.6619748473167419,1.0,0,0
+41,3,167,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,Edema,0.0,0.653706967830658,1.0,4,3
+41,3,167,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,Effusion,0.0,0.6275837421417236,1.0,7,8
+41,3,167,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6572409868240356,1.0,16,7
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Atelectasis,0.0,0.6414327025413513,1.0,0,0
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Consolidation,0.0,0.6261459589004517,1.0,1,2
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Pneumothorax,0.0,0.627812922000885,1.0,3,11
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Effusion,0.0,0.6271637678146362,1.0,7,8
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Pneumonia,0.0,0.6264857649803162,1.0,8,10
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Lung Lesion,0.0,0.625478982925415,1.0,14,6
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Fracture,0.0,0.6279088258743286,1.0,15,5
+42,0,168,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6427657008171082,1.0,16,7
+42,1,169,CheXpert-v1.0-small/valid/patient64708/study1/view1_frontal.jpg,Atelectasis,0.0,0.6524233818054199,1.0,0,0
+42,1,169,CheXpert-v1.0-small/valid/patient64708/study1/view1_frontal.jpg,Edema,0.0,0.6636171340942383,1.0,4,3
+42,1,169,CheXpert-v1.0-small/valid/patient64708/study1/view1_frontal.jpg,Lung Opacity,0.0,0.648642897605896,1.0,16,7
+42,2,170,CheXpert-v1.0-small/valid/patient64709/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6277927160263062,1.0,17,4
+42,3,171,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,Atelectasis,0.0,0.6644564867019653,1.0,0,0
+42,3,171,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,Consolidation,0.0,0.6294690370559692,1.0,1,2
+42,3,171,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,Edema,0.0,0.6826494336128235,1.0,4,3
+42,3,171,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,Effusion,0.0,0.6625527143478394,1.0,7,8
+42,3,171,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.630371630191803,1.0,10,1
+42,3,171,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6705752611160278,1.0,16,7
+43,0,172,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,Atelectasis,0.0,0.7148877382278442,1.0,0,0
+43,0,172,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,Consolidation,0.0,0.6942152380943298,1.0,1,2
+43,0,172,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,Edema,0.0,0.6926621794700623,1.0,4,3
+43,0,172,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,Pneumonia,0.0,0.6663244962692261,1.0,8,10
+43,0,172,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6635382771492004,1.0,14,6
+43,0,172,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,Fracture,0.0,0.6582525968551636,1.0,15,5
+43,1,173,CheXpert-v1.0-small/valid/patient64712/study1/view1_frontal.jpg,Atelectasis,0.0,0.6494323015213013,1.0,0,0
+43,1,173,CheXpert-v1.0-small/valid/patient64712/study1/view1_frontal.jpg,Fracture,0.0,0.6262860298156738,1.0,15,5
+43,2,174,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,Atelectasis,0.0,0.6458438634872437,1.0,0,0
+43,2,174,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6323342323303223,1.0,3,11
+43,2,174,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,Fracture,0.0,0.6310924887657166,1.0,15,5
+43,2,174,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6470803618431091,1.0,16,7
+43,2,174,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6262308955192566,1.0,17,4
+43,3,175,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,Consolidation,0.0,0.6921635270118713,1.0,1,2
+43,3,175,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,Effusion,0.0,0.7173165678977966,1.0,7,8
+43,3,175,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,Pneumonia,0.0,0.6489101648330688,1.0,8,10
+43,3,175,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.694706380367279,1.0,10,1
+43,3,175,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,Lung Lesion,0.0,0.643269419670105,1.0,14,6
+43,3,175,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,Fracture,0.0,0.6631635427474976,1.0,15,5
+44,0,176,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6256946325302124,1.0,3,11
+44,0,176,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7057908177375793,1.0,10,1
+44,0,176,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6738361716270447,1.0,14,6
+44,0,176,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,Fracture,0.0,0.6646976470947266,1.0,15,5
+44,0,176,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6564186811447144,1.0,17,4
+44,2,178,CheXpert-v1.0-small/valid/patient64717/study1/view1_frontal.jpg,Effusion,0.0,0.7253715395927429,1.0,7,8
+44,2,178,CheXpert-v1.0-small/valid/patient64717/study1/view1_frontal.jpg,Pneumonia,0.0,0.6942656636238098,1.0,8,10
+44,2,178,CheXpert-v1.0-small/valid/patient64717/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6926994919776917,1.0,14,6
+44,2,178,CheXpert-v1.0-small/valid/patient64717/study1/view1_frontal.jpg,Fracture,0.0,0.6881868243217468,1.0,15,5
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Atelectasis,0.0,0.7189008593559265,1.0,0,0
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Consolidation,0.0,0.6984459757804871,1.0,1,2
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6386435627937317,1.0,3,11
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Edema,0.0,0.6996028423309326,1.0,4,3
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Pneumonia,0.0,0.7003902792930603,1.0,8,10
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6849380731582642,1.0,10,1
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Lung Lesion,0.0,0.711641252040863,1.0,14,6
+44,3,179,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,Fracture,0.0,0.7162548303604126,1.0,15,5
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Atelectasis,0.0,0.6831178069114685,1.0,0,0
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Consolidation,0.0,0.630986213684082,1.0,1,2
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Edema,0.0,0.6755489110946655,1.0,4,3
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Effusion,0.0,0.6522901058197021,1.0,7,8
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Pneumonia,0.0,0.6275522708892822,1.0,8,10
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6263375878334045,1.0,14,6
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Fracture,0.0,0.6414045691490173,1.0,15,5
+45,0,180,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6871713995933533,1.0,16,7
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Atelectasis,0.0,0.699195146560669,1.0,0,0
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Consolidation,0.0,0.6765519976615906,1.0,1,2
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Pneumothorax,0.0,0.6307393908500671,1.0,3,11
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Edema,0.0,0.661493182182312,1.0,4,3
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Pneumonia,0.0,0.6388634443283081,1.0,8,10
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6479896306991577,1.0,10,1
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Fracture,0.0,0.6270971298217773,1.0,15,5
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7092261910438538,1.0,16,7
+45,1,181,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6350880265235901,1.0,17,4
+45,3,183,CheXpert-v1.0-small/valid/patient64722/study1/view1_frontal.jpg,Edema,0.0,0.6631835103034973,1.0,4,3
+45,3,183,CheXpert-v1.0-small/valid/patient64722/study1/view1_frontal.jpg,Pneumonia,0.0,0.6399234533309937,1.0,8,10
+45,3,183,CheXpert-v1.0-small/valid/patient64722/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6283271908760071,1.0,14,6
+45,3,183,CheXpert-v1.0-small/valid/patient64722/study1/view1_frontal.jpg,Fracture,0.0,0.6320808529853821,1.0,15,5
+46,0,184,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,Atelectasis,0.0,0.6773127913475037,1.0,0,0
+46,0,184,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,Consolidation,0.0,0.6282705068588257,1.0,1,2
+46,0,184,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,Effusion,0.0,0.644087553024292,1.0,7,8
+46,0,184,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,Pneumonia,0.0,0.6297143697738647,1.0,8,10
+46,0,184,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6716679930686951,1.0,10,1
+46,0,184,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,Fracture,0.0,0.6267721652984619,1.0,15,5
+46,2,186,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,Consolidation,0.0,0.6278785467147827,1.0,1,2
+46,2,186,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,Edema,0.0,0.6577106714248657,1.0,4,3
+46,2,186,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,Pneumonia,0.0,0.6300632953643799,1.0,8,10
+46,2,186,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6295145750045776,1.0,14,6
+46,2,186,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,Fracture,0.0,0.637600839138031,1.0,15,5
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Atelectasis,0.0,0.6750887036323547,1.0,0,0
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Consolidation,0.0,0.6366254687309265,1.0,1,2
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Edema,0.0,0.6812760233879089,1.0,4,3
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Effusion,0.0,0.6486397981643677,1.0,7,8
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Pneumonia,0.0,0.6267966032028198,1.0,8,10
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.686734676361084,1.0,10,1
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6309276819229126,1.0,14,6
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Fracture,0.0,0.6522003412246704,1.0,15,5
+46,3,187,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6853641867637634,1.0,16,7
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Atelectasis,0.0,0.6583147048950195,1.0,0,0
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Consolidation,0.0,0.6371690034866333,1.0,1,2
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Edema,0.0,0.6688156127929688,1.0,4,3
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Effusion,0.0,0.631880521774292,1.0,7,8
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Pneumonia,0.0,0.6310222744941711,1.0,8,10
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6537755131721497,1.0,10,1
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Lung Lesion,0.0,0.638847827911377,1.0,14,6
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Fracture,0.0,0.6753737926483154,1.0,15,5
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6815279722213745,1.0,16,7
+47,1,189,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.634829580783844,1.0,17,4
+47,2,190,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,Atelectasis,0.0,0.7118463516235352,1.0,0,0
+47,2,190,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,Consolidation,0.0,0.702305257320404,1.0,1,2
+47,2,190,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,Effusion,0.0,0.7199922204017639,1.0,7,8
+47,2,190,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,Pneumonia,0.0,0.6754326820373535,1.0,8,10
+47,2,190,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6707240343093872,1.0,14,6
+47,2,190,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,Fracture,0.0,0.6607066988945007,1.0,15,5
+48,0,192,CheXpert-v1.0-small/valid/patient64731/study1/view1_frontal.jpg,Fracture,0.0,0.6262587904930115,1.0,15,5
+48,1,193,CheXpert-v1.0-small/valid/patient64732/study1/view1_frontal.jpg,Atelectasis,0.0,0.6424495577812195,1.0,0,0
+48,2,194,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,Atelectasis,0.0,0.6598093509674072,1.0,0,0
+48,2,194,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,Consolidation,0.0,0.6268967390060425,1.0,1,2
+48,2,194,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,Effusion,0.0,0.6323334574699402,1.0,7,8
+48,2,194,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6673663258552551,1.0,10,1
+48,2,194,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,Fracture,0.0,0.6314237713813782,1.0,15,5
+48,3,195,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,Consolidation,0.0,0.6430702209472656,1.0,1,2
+48,3,195,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,Edema,0.0,0.6676232218742371,1.0,4,3
+48,3,195,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,Effusion,0.0,0.6846335530281067,1.0,7,8
+48,3,195,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,Pneumonia,0.0,0.6319912075996399,1.0,8,10
+48,3,195,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.683164656162262,1.0,10,1
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Consolidation,0.0,0.6388598680496216,1.0,1,2
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Edema,0.0,0.6644192337989807,1.0,4,3
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Effusion,0.0,0.6670292019844055,1.0,7,8
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Pneumonia,0.0,0.6388419270515442,1.0,8,10
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6547598838806152,1.0,10,1
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6375309228897095,1.0,14,6
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Fracture,0.0,0.6355788111686707,1.0,15,5
+49,0,196,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.632688045501709,1.0,17,4
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Atelectasis,0.0,0.6942889094352722,1.0,0,0
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Consolidation,0.0,0.6448999047279358,1.0,1,2
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Edema,0.0,0.6704297661781311,1.0,4,3
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Effusion,0.0,0.6828010082244873,1.0,7,8
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Pneumonia,0.0,0.6379609107971191,1.0,8,10
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6882959604263306,1.0,10,1
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6388749480247498,1.0,14,6
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Fracture,0.0,0.6576140522956848,1.0,15,5
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Lung Opacity,0.0,0.7025106549263,1.0,16,7
+49,1,197,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,Enlarged Cardiomediastinum,0.0,0.6606701612472534,1.0,17,4
+49,2,198,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,Atelectasis,0.0,0.6611212491989136,1.0,0,0
+49,2,198,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,Edema,0.0,0.626778781414032,1.0,4,3
+49,2,198,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,Effusion,0.0,0.6252419948577881,1.0,7,8
+49,2,198,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,Lung Opacity,0.0,0.6473545432090759,1.0,16,7
+49,3,199,CheXpert-v1.0-small/valid/patient64738/study1/view1_frontal.jpg,Atelectasis,0.0,0.6549091339111328,1.0,0,0
+49,3,199,CheXpert-v1.0-small/valid/patient64738/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6426395177841187,1.0,14,6
+49,3,199,CheXpert-v1.0-small/valid/patient64738/study1/view1_frontal.jpg,Fracture,0.0,0.6493476629257202,1.0,15,5
+50,0,200,CheXpert-v1.0-small/valid/patient64739/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.6850839853286743,1.0,10,1
+50,1,201,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,Consolidation,0.0,0.6761881113052368,1.0,1,2
+50,1,201,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,Edema,0.0,0.7054457664489746,1.0,4,3
+50,1,201,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,Pneumonia,0.0,0.6526980400085449,1.0,8,10
+50,1,201,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,Cardiomegaly,0.0,0.7249844670295715,1.0,10,1
+50,1,201,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,Lung Lesion,0.0,0.6664674878120422,1.0,14,6
+50,1,201,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,Fracture,0.0,0.6729744076728821,1.0,15,5

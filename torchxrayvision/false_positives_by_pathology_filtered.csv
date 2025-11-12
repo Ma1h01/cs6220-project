@@ -1,0 +1,760 @@
+pathology,prediction_prob,ground_truth,image_path,original_index
+Atelectasis,0.6563085913658142,0,CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0
+Atelectasis,0.6858860850334167,0,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,2
+Atelectasis,0.6282216906547546,0,CheXpert-v1.0-small/valid/patient64549/study1/view1_frontal.jpg,9
+Atelectasis,0.6376089453697205,0,CheXpert-v1.0-small/valid/patient64550/study1/view1_frontal.jpg,10
+Atelectasis,0.6274917125701904,0,CheXpert-v1.0-small/valid/patient64553/study1/view1_frontal.jpg,13
+Atelectasis,0.697409451007843,0,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,17
+Atelectasis,0.6677387356758118,0,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,23
+Atelectasis,0.700529158115387,0,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,25
+Atelectasis,0.640021562576294,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Atelectasis,0.7029966115951538,0,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,33
+Atelectasis,0.6786041259765625,0,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,34
+Atelectasis,0.6419498920440674,0,CheXpert-v1.0-small/valid/patient64575/study1/view1_frontal.jpg,35
+Atelectasis,0.7013275027275085,0,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,37
+Atelectasis,0.71738201379776,0,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,39
+Atelectasis,0.6880996823310852,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Atelectasis,0.6736204028129578,0,CheXpert-v1.0-small/valid/patient64586/study1/view1_frontal.jpg,47
+Atelectasis,0.6752914190292358,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Atelectasis,0.6682307720184326,0,CheXpert-v1.0-small/valid/patient64589/study1/view1_frontal.jpg,50
+Atelectasis,0.6305626034736633,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Atelectasis,0.6318295001983643,0,CheXpert-v1.0-small/valid/patient64593/study1/view1_frontal.jpg,54
+Atelectasis,0.654331386089325,0,CheXpert-v1.0-small/valid/patient64596/study1/view1_frontal.jpg,57
+Atelectasis,0.7240258455276489,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Atelectasis,0.663849949836731,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Atelectasis,0.6762585043907166,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Atelectasis,0.6766015887260437,0,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,62
+Atelectasis,0.6603607535362244,0,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,63
+Atelectasis,0.6786134243011475,0,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,65
+Atelectasis,0.6290203332901001,0,CheXpert-v1.0-small/valid/patient64605/study1/view1_frontal.jpg,66
+Atelectasis,0.7079071402549744,0,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,71
+Atelectasis,0.6901612281799316,0,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,72
+Atelectasis,0.631562352180481,0,CheXpert-v1.0-small/valid/patient64615/study1/view1_frontal.jpg,76
+Atelectasis,0.7003744840621948,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Atelectasis,0.629176139831543,0,CheXpert-v1.0-small/valid/patient64617/study1/view1_frontal.jpg,78
+Atelectasis,0.6706491708755493,0,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,82
+Atelectasis,0.6808767318725586,0,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,83
+Atelectasis,0.6482393741607666,0,CheXpert-v1.0-small/valid/patient64626/study1/view1_frontal.jpg,87
+Atelectasis,0.6571284532546997,0,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,92
+Atelectasis,0.687391459941864,0,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,93
+Atelectasis,0.7068395614624023,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Atelectasis,0.6830472946166992,0,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,97
+Atelectasis,0.6736286282539368,0,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,98
+Atelectasis,0.7007641196250916,0,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,103
+Atelectasis,0.7041530609130859,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Atelectasis,0.659235954284668,0,CheXpert-v1.0-small/valid/patient64646/study1/view1_frontal.jpg,107
+Atelectasis,0.6272810101509094,0,CheXpert-v1.0-small/valid/patient64651/study1/view1_frontal.jpg,112
+Atelectasis,0.7006569504737854,0,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,114
+Atelectasis,0.6951779723167419,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Atelectasis,0.6980774998664856,0,CheXpert-v1.0-small/valid/patient64663/study1/view1_frontal.jpg,124
+Atelectasis,0.6987334489822388,0,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,126
+Atelectasis,0.696891725063324,0,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,132
+Atelectasis,0.7241164445877075,0,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,133
+Atelectasis,0.7208920121192932,0,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,134
+Atelectasis,0.6677398681640625,0,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,138
+Atelectasis,0.7020338177680969,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Atelectasis,0.6753084063529968,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Atelectasis,0.7080881595611572,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Atelectasis,0.6862833499908447,0,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,149
+Atelectasis,0.7031522393226624,0,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,151
+Atelectasis,0.6743294596672058,0,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,152
+Atelectasis,0.6250371336936951,0,CheXpert-v1.0-small/valid/patient64695/study1/view1_frontal.jpg,156
+Atelectasis,0.6922857761383057,0,CheXpert-v1.0-small/valid/patient64696/study1/view1_frontal.jpg,157
+Atelectasis,0.7068257331848145,0,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,159
+Atelectasis,0.7063765525817871,0,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,161
+Atelectasis,0.686515748500824,0,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,165
+Atelectasis,0.6285736560821533,0,CheXpert-v1.0-small/valid/patient64705/study1/view1_frontal.jpg,166
+Atelectasis,0.6619748473167419,0,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,167
+Atelectasis,0.6414327025413513,0,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,168
+Atelectasis,0.6524233818054199,0,CheXpert-v1.0-small/valid/patient64708/study1/view1_frontal.jpg,169
+Atelectasis,0.6644564867019653,0,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,171
+Atelectasis,0.7148877382278442,0,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,172
+Atelectasis,0.6494323015213013,0,CheXpert-v1.0-small/valid/patient64712/study1/view1_frontal.jpg,173
+Atelectasis,0.6458438634872437,0,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,174
+Atelectasis,0.7189008593559265,0,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,179
+Atelectasis,0.6831178069114685,0,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,180
+Atelectasis,0.699195146560669,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Atelectasis,0.6773127913475037,0,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,184
+Atelectasis,0.6750887036323547,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Atelectasis,0.6583147048950195,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Atelectasis,0.7118463516235352,0,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,190
+Atelectasis,0.6424495577812195,0,CheXpert-v1.0-small/valid/patient64732/study1/view1_frontal.jpg,193
+Atelectasis,0.6598093509674072,0,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,194
+Atelectasis,0.6942889094352722,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Atelectasis,0.6611212491989136,0,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,198
+Atelectasis,0.6549091339111328,0,CheXpert-v1.0-small/valid/patient64738/study1/view1_frontal.jpg,199
+Consolidation,0.6443116664886475,0,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,2
+Consolidation,0.6388670206069946,0,CheXpert-v1.0-small/valid/patient64545/study1/view1_frontal.jpg,4
+Consolidation,0.6289128661155701,0,CheXpert-v1.0-small/valid/patient64546/study1/view1_frontal.jpg,5
+Consolidation,0.643227219581604,0,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,17
+Consolidation,0.6269736886024475,0,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,20
+Consolidation,0.6258823871612549,0,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,23
+Consolidation,0.634103536605835,0,CheXpert-v1.0-small/valid/patient64564/study1/view1_frontal.jpg,24
+Consolidation,0.638505220413208,0,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,25
+Consolidation,0.6757813692092896,0,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,29
+Consolidation,0.6264263987541199,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Consolidation,0.7063485980033875,0,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,31
+Consolidation,0.6715646982192993,0,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,33
+Consolidation,0.6286771893501282,0,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,34
+Consolidation,0.6705970168113708,0,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,37
+Consolidation,0.6731477975845337,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Consolidation,0.629479706287384,0,CheXpert-v1.0-small/valid/patient64586/study1/view1_frontal.jpg,47
+Consolidation,0.65144944190979,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Consolidation,0.6340873837471008,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Consolidation,0.6901810169219971,0,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,53
+Consolidation,0.633890688419342,0,CheXpert-v1.0-small/valid/patient64596/study1/view1_frontal.jpg,57
+Consolidation,0.7126629948616028,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Consolidation,0.6300705671310425,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Consolidation,0.6433612108230591,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Consolidation,0.6362194418907166,0,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,62
+Consolidation,0.6328732967376709,0,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,63
+Consolidation,0.6855790615081787,0,CheXpert-v1.0-small/valid/patient64603/study1/view1_frontal.jpg,64
+Consolidation,0.6640862226486206,0,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,65
+Consolidation,0.6465100049972534,0,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,69
+Consolidation,0.7120270133018494,0,CheXpert-v1.0-small/valid/patient64609/study1/view1_frontal.jpg,70
+Consolidation,0.6605032682418823,0,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,71
+Consolidation,0.6450831890106201,0,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,72
+Consolidation,0.6305526494979858,0,CheXpert-v1.0-small/valid/patient64612/study1/view1_frontal.jpg,73
+Consolidation,0.6752500534057617,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Consolidation,0.6497073173522949,0,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,80
+Consolidation,0.70073401927948,0,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,81
+Consolidation,0.6308693289756775,0,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,82
+Consolidation,0.6440975666046143,0,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,83
+Consolidation,0.6252791881561279,0,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,92
+Consolidation,0.6382256746292114,0,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,93
+Consolidation,0.7124423384666443,0,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,94
+Consolidation,0.6882157325744629,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Consolidation,0.6350419521331787,0,CheXpert-v1.0-small/valid/patient64635/study1/view1_frontal.jpg,96
+Consolidation,0.6278974413871765,0,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,97
+Consolidation,0.636753261089325,0,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,98
+Consolidation,0.6422845721244812,0,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,103
+Consolidation,0.6666591167449951,0,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,105
+Consolidation,0.6947696805000305,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Consolidation,0.6432968974113464,0,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,109
+Consolidation,0.6929598450660706,0,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,110
+Consolidation,0.6310980319976807,0,CheXpert-v1.0-small/valid/patient64654/study1/view1_frontal.jpg,115
+Consolidation,0.7067844867706299,0,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,116
+Consolidation,0.6732390522956848,0,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,117
+Consolidation,0.6264951229095459,0,CheXpert-v1.0-small/valid/patient64658/study1/view1_frontal.jpg,119
+Consolidation,0.6740932464599609,0,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,120
+Consolidation,0.6934983730316162,0,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,121
+Consolidation,0.6724376082420349,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Consolidation,0.6648367047309875,0,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,125
+Consolidation,0.651425302028656,0,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,126
+Consolidation,0.6641400456428528,0,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,127
+Consolidation,0.6717618703842163,0,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,128
+Consolidation,0.7030539512634277,0,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,130
+Consolidation,0.6657446622848511,0,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,131
+Consolidation,0.639457106590271,0,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,132
+Consolidation,0.6842092275619507,0,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,133
+Consolidation,0.7003830075263977,0,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,135
+Consolidation,0.6821009516716003,0,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,136
+Consolidation,0.6311643123626709,0,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,138
+Consolidation,0.7141116857528687,0,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,139
+Consolidation,0.6763899326324463,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Consolidation,0.6737840175628662,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Consolidation,0.7043308019638062,0,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,144
+Consolidation,0.6880282163619995,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Consolidation,0.6754766702651978,0,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,151
+Consolidation,0.6371857523918152,0,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,152
+Consolidation,0.6888591647148132,0,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,154
+Consolidation,0.6397477984428406,0,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,155
+Consolidation,0.6521623730659485,0,CheXpert-v1.0-small/valid/patient64696/study1/view1_frontal.jpg,157
+Consolidation,0.6851239204406738,0,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,158
+Consolidation,0.6921151280403137,0,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,159
+Consolidation,0.648322582244873,0,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,160
+Consolidation,0.6593717336654663,0,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,161
+Consolidation,0.63266521692276,0,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,162
+Consolidation,0.6261459589004517,0,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,168
+Consolidation,0.6294690370559692,0,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,171
+Consolidation,0.6942152380943298,0,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,172
+Consolidation,0.6921635270118713,0,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,175
+Consolidation,0.6984459757804871,0,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,179
+Consolidation,0.630986213684082,0,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,180
+Consolidation,0.6765519976615906,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Consolidation,0.6282705068588257,0,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,184
+Consolidation,0.6278785467147827,0,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,186
+Consolidation,0.6366254687309265,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Consolidation,0.6371690034866333,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Consolidation,0.702305257320404,0,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,190
+Consolidation,0.6268967390060425,0,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,194
+Consolidation,0.6430702209472656,0,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,195
+Consolidation,0.6388598680496216,0,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,196
+Consolidation,0.6448999047279358,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Consolidation,0.6761881113052368,0,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,201
+Pneumothorax,0.6327459812164307,0,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,15
+Pneumothorax,0.6255958676338196,0,CheXpert-v1.0-small/valid/patient64561/study1/view1_frontal.jpg,21
+Pneumothorax,0.6274887919425964,0,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,29
+Pneumothorax,0.6271223425865173,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Pneumothorax,0.6291598081588745,0,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,37
+Pneumothorax,0.6434276700019836,0,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,44
+Pneumothorax,0.6336608529090881,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Pneumothorax,0.6292685866355896,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Pneumothorax,0.6259095668792725,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Pneumothorax,0.6262360215187073,0,CheXpert-v1.0-small/valid/patient64593/study1/view1_frontal.jpg,54
+Pneumothorax,0.6304276585578918,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Pneumothorax,0.6320046782493591,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Pneumothorax,0.6260712146759033,0,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,62
+Pneumothorax,0.6377508044242859,0,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,69
+Pneumothorax,0.628061056137085,0,CheXpert-v1.0-small/valid/patient64613/study1/view1_frontal.jpg,74
+Pneumothorax,0.6318961381912231,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Pneumothorax,0.6301050782203674,0,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,80
+Pneumothorax,0.646784245967865,0,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,81
+Pneumothorax,0.634798526763916,0,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,83
+Pneumothorax,0.6364696621894836,0,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,94
+Pneumothorax,0.6262592673301697,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Pneumothorax,0.6347523927688599,0,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,98
+Pneumothorax,0.6343488693237305,0,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,100
+Pneumothorax,0.637696385383606,0,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,102
+Pneumothorax,0.6321629285812378,0,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,103
+Pneumothorax,0.653631329536438,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Pneumothorax,0.6347959637641907,0,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,109
+Pneumothorax,0.6587838530540466,0,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,110
+Pneumothorax,0.667629063129425,0,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,113
+Pneumothorax,0.6279580593109131,0,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,114
+Pneumothorax,0.6253310441970825,0,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,117
+Pneumothorax,0.6509624123573303,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Pneumothorax,0.6420064568519592,0,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,125
+Pneumothorax,0.6349712014198303,0,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,130
+Pneumothorax,0.6274053454399109,0,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,139
+Pneumothorax,0.6328432559967041,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Pneumothorax,0.6588706374168396,0,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,144
+Pneumothorax,0.6322969794273376,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Pneumothorax,0.6323267817497253,0,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,149
+Pneumothorax,0.625957190990448,0,CheXpert-v1.0-small/valid/patient64689/study1/view1_frontal.jpg,150
+Pneumothorax,0.6261336207389832,0,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,151
+Pneumothorax,0.6297816038131714,0,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,152
+Pneumothorax,0.6250669360160828,0,CheXpert-v1.0-small/valid/patient64692/study1/view1_frontal.jpg,153
+Pneumothorax,0.6461909413337708,0,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,155
+Pneumothorax,0.6272361278533936,0,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,163
+Pneumothorax,0.6306506395339966,0,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,165
+Pneumothorax,0.627812922000885,0,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,168
+Pneumothorax,0.6323342323303223,0,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,174
+Pneumothorax,0.6256946325302124,0,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,176
+Pneumothorax,0.6386435627937317,0,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,179
+Pneumothorax,0.6307393908500671,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Edema,0.6352198123931885,0,CheXpert-v1.0-small/valid/patient64541/study1/view1_frontal.jpg,0
+Edema,0.6715450882911682,0,CheXpert-v1.0-small/valid/patient64545/study1/view1_frontal.jpg,4
+Edema,0.6793462634086609,0,CheXpert-v1.0-small/valid/patient64546/study1/view1_frontal.jpg,5
+Edema,0.7094364166259766,0,CheXpert-v1.0-small/valid/patient64548/study1/view1_frontal.jpg,8
+Edema,0.6295551061630249,0,CheXpert-v1.0-small/valid/patient64553/study1/view1_frontal.jpg,13
+Edema,0.6407628059387207,0,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,20
+Edema,0.6823299527168274,0,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,25
+Edema,0.670001208782196,0,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,29
+Edema,0.645429253578186,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Edema,0.683099091053009,0,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,31
+Edema,0.6441121697425842,0,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,34
+Edema,0.6305691599845886,0,CheXpert-v1.0-small/valid/patient64575/study1/view1_frontal.jpg,35
+Edema,0.6813041567802429,0,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,37
+Edema,0.709051251411438,0,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,39
+Edema,0.7206952571868896,0,CheXpert-v1.0-small/valid/patient64580/study1/view1_frontal.jpg,40
+Edema,0.6752113103866577,0,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,44
+Edema,0.6882427334785461,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Edema,0.6514707207679749,0,CheXpert-v1.0-small/valid/patient64586/study1/view1_frontal.jpg,47
+Edema,0.6799983382225037,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Edema,0.6335638761520386,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Edema,0.6676637530326843,0,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,53
+Edema,0.6990849375724792,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Edema,0.6325667500495911,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Edema,0.647730827331543,0,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,63
+Edema,0.6800456643104553,0,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,65
+Edema,0.6374936699867249,0,CheXpert-v1.0-small/valid/patient64605/study1/view1_frontal.jpg,66
+Edema,0.630147397518158,0,CheXpert-v1.0-small/valid/patient64607/study1/view1_frontal.jpg,68
+Edema,0.6318022012710571,0,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,69
+Edema,0.6520376801490784,0,CheXpert-v1.0-small/valid/patient64612/study1/view1_frontal.jpg,73
+Edema,0.646872341632843,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Edema,0.6298482418060303,0,CheXpert-v1.0-small/valid/patient64617/study1/view1_frontal.jpg,78
+Edema,0.6718509197235107,0,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,80
+Edema,0.7009050250053406,0,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,81
+Edema,0.6337009072303772,0,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,82
+Edema,0.680534839630127,0,CheXpert-v1.0-small/valid/patient64624/study1/view1_frontal.jpg,85
+Edema,0.6339594125747681,0,CheXpert-v1.0-small/valid/patient64626/study1/view1_frontal.jpg,87
+Edema,0.6996944546699524,0,CheXpert-v1.0-small/valid/patient64630/study1/view1_frontal.jpg,91
+Edema,0.6386365294456482,0,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,92
+Edema,0.6455802917480469,0,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,93
+Edema,0.6949429512023926,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Edema,0.6629596948623657,0,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,97
+Edema,0.6665477156639099,0,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,98
+Edema,0.6385306119918823,0,CheXpert-v1.0-small/valid/patient64638/study1/view1_frontal.jpg,99
+Edema,0.7133389711380005,0,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,100
+Edema,0.696255624294281,0,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,102
+Edema,0.672382652759552,0,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,105
+Edema,0.687270998954773,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Edema,0.6260404586791992,0,CheXpert-v1.0-small/valid/patient64646/study1/view1_frontal.jpg,107
+Edema,0.6938114762306213,0,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,109
+Edema,0.6846569776535034,0,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,110
+Edema,0.6382361054420471,0,CheXpert-v1.0-small/valid/patient64651/study1/view1_frontal.jpg,112
+Edema,0.7031800150871277,0,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,113
+Edema,0.7056741118431091,0,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,114
+Edema,0.6581450700759888,0,CheXpert-v1.0-small/valid/patient64654/study1/view1_frontal.jpg,115
+Edema,0.6803485155105591,0,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,116
+Edema,0.6357725262641907,0,CheXpert-v1.0-small/valid/patient64658/study1/view1_frontal.jpg,119
+Edema,0.6970584988594055,0,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,120
+Edema,0.7025912404060364,0,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,121
+Edema,0.6929498910903931,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Edema,0.6253846287727356,0,CheXpert-v1.0-small/valid/patient64662/study1/view1_frontal.jpg,123
+Edema,0.6799440979957581,0,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,126
+Edema,0.6946890354156494,0,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,127
+Edema,0.6954213380813599,0,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,128
+Edema,0.6800378561019897,0,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,131
+Edema,0.6898431181907654,0,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,132
+Edema,0.6855435967445374,0,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,134
+Edema,0.6857163906097412,0,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,135
+Edema,0.6534534692764282,0,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,136
+Edema,0.6737334728240967,0,CheXpert-v1.0-small/valid/patient64676/study1/view1_frontal.jpg,137
+Edema,0.6817300319671631,0,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,138
+Edema,0.7188790440559387,0,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,139
+Edema,0.6946906447410583,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Edema,0.6825107336044312,0,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,142
+Edema,0.6677718758583069,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Edema,0.7004616260528564,0,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,144
+Edema,0.6709551811218262,0,CheXpert-v1.0-small/valid/patient64684/study1/view1_frontal.jpg,145
+Edema,0.6427394151687622,0,CheXpert-v1.0-small/valid/patient64686/study1/view1_frontal.jpg,147
+Edema,0.7053301930427551,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Edema,0.7156358957290649,0,CheXpert-v1.0-small/valid/patient64689/study1/view1_frontal.jpg,150
+Edema,0.7117960453033447,0,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,151
+Edema,0.6616457104682922,0,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,152
+Edema,0.7060861587524414,0,CheXpert-v1.0-small/valid/patient64692/study1/view1_frontal.jpg,153
+Edema,0.655580461025238,0,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,154
+Edema,0.6631374359130859,0,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,155
+Edema,0.6421672105789185,0,CheXpert-v1.0-small/valid/patient64695/study1/view1_frontal.jpg,156
+Edema,0.6558527946472168,0,CheXpert-v1.0-small/valid/patient64696/study1/view1_frontal.jpg,157
+Edema,0.6681646704673767,0,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,160
+Edema,0.659463107585907,0,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,161
+Edema,0.6541178822517395,0,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,162
+Edema,0.7124281525611877,0,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,163
+Edema,0.7104328870773315,0,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,164
+Edema,0.6987400650978088,0,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,165
+Edema,0.653706967830658,0,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,167
+Edema,0.6636171340942383,0,CheXpert-v1.0-small/valid/patient64708/study1/view1_frontal.jpg,169
+Edema,0.6826494336128235,0,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,171
+Edema,0.6926621794700623,0,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,172
+Edema,0.6996028423309326,0,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,179
+Edema,0.6755489110946655,0,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,180
+Edema,0.661493182182312,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Edema,0.6631835103034973,0,CheXpert-v1.0-small/valid/patient64722/study1/view1_frontal.jpg,183
+Edema,0.6577106714248657,0,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,186
+Edema,0.6812760233879089,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Edema,0.6688156127929688,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Edema,0.6676232218742371,0,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,195
+Edema,0.6644192337989807,0,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,196
+Edema,0.6704297661781311,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Edema,0.626778781414032,0,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,198
+Edema,0.7054457664489746,0,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,201
+Effusion,0.6570227146148682,0,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,2
+Effusion,0.6657718420028687,0,CheXpert-v1.0-small/valid/patient64546/study1/view1_frontal.jpg,5
+Effusion,0.7115510702133179,0,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,15
+Effusion,0.6835131645202637,0,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,17
+Effusion,0.6304070353507996,0,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,20
+Effusion,0.6396684050559998,0,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,23
+Effusion,0.6618869304656982,0,CheXpert-v1.0-small/valid/patient64564/study1/view1_frontal.jpg,24
+Effusion,0.6648639440536499,0,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,25
+Effusion,0.7109331488609314,0,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,29
+Effusion,0.7097501158714294,0,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,33
+Effusion,0.6602279543876648,0,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,34
+Effusion,0.708466649055481,0,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,39
+Effusion,0.6884070038795471,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Effusion,0.6424650549888611,0,CheXpert-v1.0-small/valid/patient64586/study1/view1_frontal.jpg,47
+Effusion,0.6830459237098694,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Effusion,0.6408116817474365,0,CheXpert-v1.0-small/valid/patient64589/study1/view1_frontal.jpg,50
+Effusion,0.7209662795066833,0,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,53
+Effusion,0.7270947098731995,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Effusion,0.6470508575439453,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Effusion,0.6605132222175598,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Effusion,0.64784175157547,0,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,62
+Effusion,0.6300328969955444,0,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,63
+Effusion,0.6917175054550171,0,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,65
+Effusion,0.6300762295722961,0,CheXpert-v1.0-small/valid/patient64607/study1/view1_frontal.jpg,68
+Effusion,0.6957749724388123,0,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,69
+Effusion,0.694749653339386,0,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,71
+Effusion,0.6903384923934937,0,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,72
+Effusion,0.7024243474006653,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Effusion,0.6694652438163757,0,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,82
+Effusion,0.6939774751663208,0,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,83
+Effusion,0.6459232568740845,0,CheXpert-v1.0-small/valid/patient64624/study1/view1_frontal.jpg,85
+Effusion,0.6833531260490417,0,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,93
+Effusion,0.7197464108467102,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Effusion,0.6773619651794434,0,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,98
+Effusion,0.7259790897369385,0,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,102
+Effusion,0.7031387090682983,0,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,103
+Effusion,0.7019495368003845,0,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,109
+Effusion,0.7062978744506836,0,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,117
+Effusion,0.6374388933181763,0,CheXpert-v1.0-small/valid/patient64658/study1/view1_frontal.jpg,119
+Effusion,0.7105053067207336,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Effusion,0.7115157246589661,0,CheXpert-v1.0-small/valid/patient64663/study1/view1_frontal.jpg,124
+Effusion,0.6952227354049683,0,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,125
+Effusion,0.6992331743240356,0,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,126
+Effusion,0.7121726274490356,0,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,127
+Effusion,0.7227442264556885,0,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,130
+Effusion,0.6912723779678345,0,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,132
+Effusion,0.7166412472724915,0,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,133
+Effusion,0.7082920074462891,0,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,136
+Effusion,0.6618871688842773,0,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,138
+Effusion,0.7034792900085449,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Effusion,0.7181218266487122,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Effusion,0.7139962911605835,0,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,154
+Effusion,0.7023951411247253,0,CheXpert-v1.0-small/valid/patient64696/study1/view1_frontal.jpg,157
+Effusion,0.7176628112792969,0,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,158
+Effusion,0.7179694771766663,0,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,159
+Effusion,0.6984208226203918,0,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,160
+Effusion,0.7028224468231201,0,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,161
+Effusion,0.6499921083450317,0,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,162
+Effusion,0.6275837421417236,0,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,167
+Effusion,0.6271637678146362,0,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,168
+Effusion,0.6625527143478394,0,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,171
+Effusion,0.7173165678977966,0,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,175
+Effusion,0.7253715395927429,0,CheXpert-v1.0-small/valid/patient64717/study1/view1_frontal.jpg,178
+Effusion,0.6522901058197021,0,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,180
+Effusion,0.644087553024292,0,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,184
+Effusion,0.6486397981643677,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Effusion,0.631880521774292,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Effusion,0.7199922204017639,0,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,190
+Effusion,0.6323334574699402,0,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,194
+Effusion,0.6846335530281067,0,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,195
+Effusion,0.6670292019844055,0,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,196
+Effusion,0.6828010082244873,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Effusion,0.6252419948577881,0,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,198
+Pneumonia,0.6699579358100891,0,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,2
+Pneumonia,0.6805183291435242,0,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,15
+Pneumonia,0.632013201713562,0,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,17
+Pneumonia,0.6341683864593506,0,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,20
+Pneumonia,0.6259538531303406,0,CheXpert-v1.0-small/valid/patient64563/study1/view1_frontal.jpg,23
+Pneumonia,0.6310725808143616,0,CheXpert-v1.0-small/valid/patient64564/study1/view1_frontal.jpg,24
+Pneumonia,0.6561254858970642,0,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,25
+Pneumonia,0.6375869512557983,0,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,29
+Pneumonia,0.6254419684410095,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Pneumonia,0.6679851412773132,0,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,31
+Pneumonia,0.6476120352745056,0,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,33
+Pneumonia,0.6372238993644714,0,CheXpert-v1.0-small/valid/patient64575/study1/view1_frontal.jpg,35
+Pneumonia,0.676167905330658,0,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,37
+Pneumonia,0.6802745461463928,0,CheXpert-v1.0-small/valid/patient64580/study1/view1_frontal.jpg,40
+Pneumonia,0.6426571607589722,0,CheXpert-v1.0-small/valid/patient64582/study1/view1_frontal.jpg,43
+Pneumonia,0.6393633484840393,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Pneumonia,0.6347667574882507,0,CheXpert-v1.0-small/valid/patient64586/study1/view1_frontal.jpg,47
+Pneumonia,0.6311895847320557,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Pneumonia,0.6478806138038635,0,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,53
+Pneumonia,0.7024421691894531,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Pneumonia,0.6367343068122864,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Pneumonia,0.6754957437515259,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Pneumonia,0.6291398406028748,0,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,62
+Pneumonia,0.6819922924041748,0,CheXpert-v1.0-small/valid/patient64603/study1/view1_frontal.jpg,64
+Pneumonia,0.6450210213661194,0,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,65
+Pneumonia,0.6518983244895935,0,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,69
+Pneumonia,0.6932863593101501,0,CheXpert-v1.0-small/valid/patient64609/study1/view1_frontal.jpg,70
+Pneumonia,0.6453994512557983,0,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,71
+Pneumonia,0.6404144763946533,0,CheXpert-v1.0-small/valid/patient64611/study1/view1_frontal.jpg,72
+Pneumonia,0.6263166069984436,0,CheXpert-v1.0-small/valid/patient64615/study1/view1_frontal.jpg,76
+Pneumonia,0.6722766757011414,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Pneumonia,0.6496992111206055,0,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,80
+Pneumonia,0.6458404064178467,0,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,81
+Pneumonia,0.6295678615570068,0,CheXpert-v1.0-small/valid/patient64622/study1/view1_frontal.jpg,83
+Pneumonia,0.6413179636001587,0,CheXpert-v1.0-small/valid/patient64623/study1/view1_frontal.jpg,84
+Pneumonia,0.6518615484237671,0,CheXpert-v1.0-small/valid/patient64630/study1/view1_frontal.jpg,91
+Pneumonia,0.681999146938324,0,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,94
+Pneumonia,0.6611955165863037,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Pneumonia,0.6315337419509888,0,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,97
+Pneumonia,0.6722168922424316,0,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,100
+Pneumonia,0.6434966921806335,0,CheXpert-v1.0-small/valid/patient64640/study1/view1_frontal.jpg,101
+Pneumonia,0.6664813756942749,0,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,102
+Pneumonia,0.6325670480728149,0,CheXpert-v1.0-small/valid/patient64642/study1/view1_frontal.jpg,103
+Pneumonia,0.6404195427894592,0,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,105
+Pneumonia,0.6618826389312744,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Pneumonia,0.6874827742576599,0,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,110
+Pneumonia,0.6592038869857788,0,CheXpert-v1.0-small/valid/patient64650/study1/view1_frontal.jpg,111
+Pneumonia,0.6300277709960938,0,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,114
+Pneumonia,0.6354050040245056,0,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,116
+Pneumonia,0.6473889946937561,0,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,117
+Pneumonia,0.6502130031585693,0,CheXpert-v1.0-small/valid/patient64657/study1/view1_frontal.jpg,118
+Pneumonia,0.6311368942260742,0,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,120
+Pneumonia,0.6469934582710266,0,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,121
+Pneumonia,0.650925874710083,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Pneumonia,0.6321391463279724,0,CheXpert-v1.0-small/valid/patient64663/study1/view1_frontal.jpg,124
+Pneumonia,0.6480488181114197,0,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,125
+Pneumonia,0.6341782212257385,0,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,126
+Pneumonia,0.6508444547653198,0,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,127
+Pneumonia,0.6410141587257385,0,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,128
+Pneumonia,0.6619601845741272,0,CheXpert-v1.0-small/valid/patient64668/study1/view1_frontal.jpg,129
+Pneumonia,0.6864878535270691,0,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,130
+Pneumonia,0.6319448947906494,0,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,132
+Pneumonia,0.7041038870811462,0,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,133
+Pneumonia,0.6837255358695984,0,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,134
+Pneumonia,0.6472314596176147,0,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,135
+Pneumonia,0.6259763836860657,0,CheXpert-v1.0-small/valid/patient64675/study1/view1_frontal.jpg,136
+Pneumonia,0.630331814289093,0,CheXpert-v1.0-small/valid/patient64676/study1/view1_frontal.jpg,137
+Pneumonia,0.6269428133964539,0,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,138
+Pneumonia,0.6710036993026733,0,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,139
+Pneumonia,0.650844395160675,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Pneumonia,0.6455931067466736,0,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,142
+Pneumonia,0.6334707140922546,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Pneumonia,0.6809720993041992,0,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,144
+Pneumonia,0.6273359060287476,0,CheXpert-v1.0-small/valid/patient64684/study1/view1_frontal.jpg,145
+Pneumonia,0.6440412998199463,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Pneumonia,0.6621414422988892,0,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,149
+Pneumonia,0.6745715737342834,0,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,151
+Pneumonia,0.6295990943908691,0,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,152
+Pneumonia,0.6427279114723206,0,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,154
+Pneumonia,0.6266400814056396,0,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,155
+Pneumonia,0.6422559022903442,0,CheXpert-v1.0-small/valid/patient64696/study1/view1_frontal.jpg,157
+Pneumonia,0.6379692554473877,0,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,158
+Pneumonia,0.6685749292373657,0,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,159
+Pneumonia,0.6305452585220337,0,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,160
+Pneumonia,0.6520481109619141,0,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,161
+Pneumonia,0.6297225952148438,0,CheXpert-v1.0-small/valid/patient64701/study1/view1_frontal.jpg,162
+Pneumonia,0.6711379289627075,0,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,163
+Pneumonia,0.6451655626296997,0,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,164
+Pneumonia,0.6290066838264465,0,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,165
+Pneumonia,0.6264857649803162,0,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,168
+Pneumonia,0.6663244962692261,0,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,172
+Pneumonia,0.6489101648330688,0,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,175
+Pneumonia,0.6942656636238098,0,CheXpert-v1.0-small/valid/patient64717/study1/view1_frontal.jpg,178
+Pneumonia,0.7003902792930603,0,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,179
+Pneumonia,0.6275522708892822,0,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,180
+Pneumonia,0.6388634443283081,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Pneumonia,0.6399234533309937,0,CheXpert-v1.0-small/valid/patient64722/study1/view1_frontal.jpg,183
+Pneumonia,0.6297143697738647,0,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,184
+Pneumonia,0.6300632953643799,0,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,186
+Pneumonia,0.6267966032028198,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Pneumonia,0.6310222744941711,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Pneumonia,0.6754326820373535,0,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,190
+Pneumonia,0.6319912075996399,0,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,195
+Pneumonia,0.6388419270515442,0,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,196
+Pneumonia,0.6379609107971191,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Pneumonia,0.6526980400085449,0,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,201
+Cardiomegaly,0.6762121915817261,0,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,2
+Cardiomegaly,0.6876706480979919,0,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,15
+Cardiomegaly,0.71671462059021,0,CheXpert-v1.0-small/valid/patient64557/study1/view1_frontal.jpg,17
+Cardiomegaly,0.6783124208450317,0,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,20
+Cardiomegaly,0.6381369233131409,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Cardiomegaly,0.7040663361549377,0,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,31
+Cardiomegaly,0.6788639426231384,0,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,33
+Cardiomegaly,0.6381865739822388,0,CheXpert-v1.0-small/valid/patient64575/study1/view1_frontal.jpg,35
+Cardiomegaly,0.7161654829978943,0,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,39
+Cardiomegaly,0.7137550711631775,0,CheXpert-v1.0-small/valid/patient64582/study1/view1_frontal.jpg,43
+Cardiomegaly,0.6436363458633423,0,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,44
+Cardiomegaly,0.6987610459327698,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Cardiomegaly,0.6289984583854675,0,CheXpert-v1.0-small/valid/patient64589/study1/view1_frontal.jpg,50
+Cardiomegaly,0.6524171829223633,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Cardiomegaly,0.6998827457427979,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Cardiomegaly,0.6497398018836975,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Cardiomegaly,0.6487312316894531,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Cardiomegaly,0.6433374881744385,0,CheXpert-v1.0-small/valid/patient64614/study1/view1_frontal.jpg,75
+Cardiomegaly,0.6659881472587585,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Cardiomegaly,0.6709051728248596,0,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,80
+Cardiomegaly,0.6814587712287903,0,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,81
+Cardiomegaly,0.6313343644142151,0,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,92
+Cardiomegaly,0.7187751531600952,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Cardiomegaly,0.6803409457206726,0,CheXpert-v1.0-small/valid/patient64635/study1/view1_frontal.jpg,96
+Cardiomegaly,0.6824615001678467,0,CheXpert-v1.0-small/valid/patient64640/study1/view1_frontal.jpg,101
+Cardiomegaly,0.6351704001426697,0,CheXpert-v1.0-small/valid/patient64643/study1/view1_frontal.jpg,104
+Cardiomegaly,0.6337174773216248,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Cardiomegaly,0.7155705094337463,0,CheXpert-v1.0-small/valid/patient64648/study1/view1_frontal.jpg,109
+Cardiomegaly,0.6469517350196838,0,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,113
+Cardiomegaly,0.6464139223098755,0,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,114
+Cardiomegaly,0.6767141222953796,0,CheXpert-v1.0-small/valid/patient64656/study1/view1_frontal.jpg,117
+Cardiomegaly,0.6694978475570679,0,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,120
+Cardiomegaly,0.6859056949615479,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Cardiomegaly,0.676991879940033,0,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,127
+Cardiomegaly,0.686303436756134,0,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,128
+Cardiomegaly,0.7125391364097595,0,CheXpert-v1.0-small/valid/patient64668/study1/view1_frontal.jpg,129
+Cardiomegaly,0.6324864029884338,0,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,131
+Cardiomegaly,0.7120540142059326,0,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,139
+Cardiomegaly,0.6432232856750488,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Cardiomegaly,0.7214014530181885,0,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,142
+Cardiomegaly,0.6645697951316833,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Cardiomegaly,0.6406314373016357,0,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,144
+Cardiomegaly,0.6389319896697998,0,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,149
+Cardiomegaly,0.6594098210334778,0,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,151
+Cardiomegaly,0.6259239912033081,0,CheXpert-v1.0-small/valid/patient64696/study1/view1_frontal.jpg,157
+Cardiomegaly,0.7154408693313599,0,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,158
+Cardiomegaly,0.6508661508560181,0,CheXpert-v1.0-small/valid/patient64699/study1/view1_frontal.jpg,160
+Cardiomegaly,0.7048785090446472,0,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,164
+Cardiomegaly,0.6714231967926025,0,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,165
+Cardiomegaly,0.630371630191803,0,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,171
+Cardiomegaly,0.694706380367279,0,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,175
+Cardiomegaly,0.7057908177375793,0,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,176
+Cardiomegaly,0.6849380731582642,0,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,179
+Cardiomegaly,0.6479896306991577,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Cardiomegaly,0.6716679930686951,0,CheXpert-v1.0-small/valid/patient64723/study1/view1_frontal.jpg,184
+Cardiomegaly,0.686734676361084,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Cardiomegaly,0.6537755131721497,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Cardiomegaly,0.6673663258552551,0,CheXpert-v1.0-small/valid/patient64733/study1/view1_frontal.jpg,194
+Cardiomegaly,0.683164656162262,0,CheXpert-v1.0-small/valid/patient64734/study1/view1_frontal.jpg,195
+Cardiomegaly,0.6547598838806152,0,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,196
+Cardiomegaly,0.6882959604263306,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Cardiomegaly,0.6850839853286743,0,CheXpert-v1.0-small/valid/patient64739/study1/view1_frontal.jpg,200
+Cardiomegaly,0.7249844670295715,0,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,201
+Lung Lesion,0.6654908657073975,0,CheXpert-v1.0-small/valid/patient64543/study1/view1_frontal.jpg,2
+Lung Lesion,0.6266611814498901,0,CheXpert-v1.0-small/valid/patient64547/study1/view1_frontal.jpg,6
+Lung Lesion,0.7063769102096558,0,CheXpert-v1.0-small/valid/patient64548/study1/view1_frontal.jpg,8
+Lung Lesion,0.6287486553192139,0,CheXpert-v1.0-small/valid/patient64552/study1/view1_frontal.jpg,12
+Lung Lesion,0.6651074290275574,0,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,15
+Lung Lesion,0.6309270858764648,0,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,20
+Lung Lesion,0.6444635391235352,0,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,25
+Lung Lesion,0.6354677677154541,0,CheXpert-v1.0-small/valid/patient64569/study1/view1_frontal.jpg,29
+Lung Lesion,0.6344731450080872,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Lung Lesion,0.6527234315872192,0,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,31
+Lung Lesion,0.6281605958938599,0,CheXpert-v1.0-small/valid/patient64573/study1/view1_frontal.jpg,33
+Lung Lesion,0.6496002674102783,0,CheXpert-v1.0-small/valid/patient64575/study1/view1_frontal.jpg,35
+Lung Lesion,0.6669045090675354,0,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,37
+Lung Lesion,0.7056336998939514,0,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,39
+Lung Lesion,0.6639683246612549,0,CheXpert-v1.0-small/valid/patient64580/study1/view1_frontal.jpg,40
+Lung Lesion,0.643261730670929,0,CheXpert-v1.0-small/valid/patient64581/study1/view1_frontal.jpg,41
+Lung Lesion,0.6293078064918518,0,CheXpert-v1.0-small/valid/patient64581/study1/view2_frontal.jpg,42
+Lung Lesion,0.6993700861930847,0,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,44
+Lung Lesion,0.6437228918075562,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Lung Lesion,0.6271407008171082,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Lung Lesion,0.633481502532959,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Lung Lesion,0.6364706754684448,0,CheXpert-v1.0-small/valid/patient64592/study1/view1_frontal.jpg,53
+Lung Lesion,0.6252191066741943,0,CheXpert-v1.0-small/valid/patient64593/study1/view1_frontal.jpg,54
+Lung Lesion,0.70308917760849,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Lung Lesion,0.6355209350585938,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Lung Lesion,0.6799415946006775,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Lung Lesion,0.6290856599807739,0,CheXpert-v1.0-small/valid/patient64601/study1/view1_frontal.jpg,62
+Lung Lesion,0.631930947303772,0,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,63
+Lung Lesion,0.6915181875228882,0,CheXpert-v1.0-small/valid/patient64603/study1/view1_frontal.jpg,64
+Lung Lesion,0.6322650909423828,0,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,65
+Lung Lesion,0.6525233387947083,0,CheXpert-v1.0-small/valid/patient64608/study1/view1_frontal.jpg,69
+Lung Lesion,0.6867803335189819,0,CheXpert-v1.0-small/valid/patient64609/study1/view1_frontal.jpg,70
+Lung Lesion,0.6376791596412659,0,CheXpert-v1.0-small/valid/patient64610/study1/view1_frontal.jpg,71
+Lung Lesion,0.6260339021682739,0,CheXpert-v1.0-small/valid/patient64613/study1/view1_frontal.jpg,74
+Lung Lesion,0.6282798647880554,0,CheXpert-v1.0-small/valid/patient64615/study1/view1_frontal.jpg,76
+Lung Lesion,0.6794578433036804,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Lung Lesion,0.6571694016456604,0,CheXpert-v1.0-small/valid/patient64619/study1/view1_frontal.jpg,80
+Lung Lesion,0.661605715751648,0,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,81
+Lung Lesion,0.6268361806869507,0,CheXpert-v1.0-small/valid/patient64625/study1/view1_frontal.jpg,86
+Lung Lesion,0.6371333003044128,0,CheXpert-v1.0-small/valid/patient64630/study1/view1_frontal.jpg,91
+Lung Lesion,0.6716552376747131,0,CheXpert-v1.0-small/valid/patient64633/study1/view1_frontal.jpg,94
+Lung Lesion,0.6508281230926514,0,CheXpert-v1.0-small/valid/patient64634/study1/view1_frontal.jpg,95
+Lung Lesion,0.6291583776473999,0,CheXpert-v1.0-small/valid/patient64636/study1/view1_frontal.jpg,97
+Lung Lesion,0.6288600564002991,0,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,98
+Lung Lesion,0.688851535320282,0,CheXpert-v1.0-small/valid/patient64639/study1/view1_frontal.jpg,100
+Lung Lesion,0.6513181924819946,0,CheXpert-v1.0-small/valid/patient64641/study1/view1_frontal.jpg,102
+Lung Lesion,0.6300246715545654,0,CheXpert-v1.0-small/valid/patient64644/study1/view1_frontal.jpg,105
+Lung Lesion,0.6586748957633972,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Lung Lesion,0.7012144923210144,0,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,110
+Lung Lesion,0.6279017329216003,0,CheXpert-v1.0-small/valid/patient64650/study1/view1_frontal.jpg,111
+Lung Lesion,0.7017991542816162,0,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,113
+Lung Lesion,0.6275071501731873,0,CheXpert-v1.0-small/valid/patient64653/study1/view1_frontal.jpg,114
+Lung Lesion,0.6253621578216553,0,CheXpert-v1.0-small/valid/patient64655/study1/view1_frontal.jpg,116
+Lung Lesion,0.6295294761657715,0,CheXpert-v1.0-small/valid/patient64660/study1/view1_frontal.jpg,121
+Lung Lesion,0.6438948512077332,0,CheXpert-v1.0-small/valid/patient64661/study1/view1_frontal.jpg,122
+Lung Lesion,0.6290026307106018,0,CheXpert-v1.0-small/valid/patient64664/study1/view1_frontal.jpg,125
+Lung Lesion,0.626650869846344,0,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,128
+Lung Lesion,0.6297499537467957,0,CheXpert-v1.0-small/valid/patient64668/study1/view1_frontal.jpg,129
+Lung Lesion,0.6744534373283386,0,CheXpert-v1.0-small/valid/patient64669/study1/view1_frontal.jpg,130
+Lung Lesion,0.6988987922668457,0,CheXpert-v1.0-small/valid/patient64672/study1/view1_frontal.jpg,133
+Lung Lesion,0.6959271430969238,0,CheXpert-v1.0-small/valid/patient64673/study1/view1_frontal.jpg,134
+Lung Lesion,0.6301093697547913,0,CheXpert-v1.0-small/valid/patient64674/study1/view1_frontal.jpg,135
+Lung Lesion,0.6290588974952698,0,CheXpert-v1.0-small/valid/patient64676/study1/view1_frontal.jpg,137
+Lung Lesion,0.6692631244659424,0,CheXpert-v1.0-small/valid/patient64678/study1/view1_frontal.jpg,139
+Lung Lesion,0.6612619757652283,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Lung Lesion,0.6251723766326904,0,CheXpert-v1.0-small/valid/patient64681/study1/view1_frontal.jpg,142
+Lung Lesion,0.6480269432067871,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Lung Lesion,0.6844510436058044,0,CheXpert-v1.0-small/valid/patient64683/study1/view1_frontal.jpg,144
+Lung Lesion,0.6404245495796204,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Lung Lesion,0.6471403241157532,0,CheXpert-v1.0-small/valid/patient64688/study1/view1_frontal.jpg,149
+Lung Lesion,0.6860121488571167,0,CheXpert-v1.0-small/valid/patient64689/study1/view1_frontal.jpg,150
+Lung Lesion,0.6608631014823914,0,CheXpert-v1.0-small/valid/patient64690/study1/view1_frontal.jpg,151
+Lung Lesion,0.6319767832756042,0,CheXpert-v1.0-small/valid/patient64691/study1/view1_frontal.jpg,152
+Lung Lesion,0.6686302423477173,0,CheXpert-v1.0-small/valid/patient64692/study1/view1_frontal.jpg,153
+Lung Lesion,0.6326984167098999,0,CheXpert-v1.0-small/valid/patient64693/study1/view1_frontal.jpg,154
+Lung Lesion,0.6379308104515076,0,CheXpert-v1.0-small/valid/patient64694/study1/view1_frontal.jpg,155
+Lung Lesion,0.6350402235984802,0,CheXpert-v1.0-small/valid/patient64697/study1/view1_frontal.jpg,158
+Lung Lesion,0.6600087881088257,0,CheXpert-v1.0-small/valid/patient64698/study1/view1_frontal.jpg,159
+Lung Lesion,0.6779061555862427,0,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,161
+Lung Lesion,0.6755903363227844,0,CheXpert-v1.0-small/valid/patient64702/study1/view1_frontal.jpg,163
+Lung Lesion,0.625478982925415,0,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,168
+Lung Lesion,0.6635382771492004,0,CheXpert-v1.0-small/valid/patient64711/study1/view1_frontal.jpg,172
+Lung Lesion,0.643269419670105,0,CheXpert-v1.0-small/valid/patient64714/study1/view1_frontal.jpg,175
+Lung Lesion,0.6738361716270447,0,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,176
+Lung Lesion,0.6926994919776917,0,CheXpert-v1.0-small/valid/patient64717/study1/view1_frontal.jpg,178
+Lung Lesion,0.711641252040863,0,CheXpert-v1.0-small/valid/patient64718/study1/view1_frontal.jpg,179
+Lung Lesion,0.6263375878334045,0,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,180
+Lung Lesion,0.6283271908760071,0,CheXpert-v1.0-small/valid/patient64722/study1/view1_frontal.jpg,183
+Lung Lesion,0.6295145750045776,0,CheXpert-v1.0-small/valid/patient64725/study1/view1_frontal.jpg,186
+Lung Lesion,0.6309276819229126,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Lung Lesion,0.638847827911377,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Lung Lesion,0.6707240343093872,0,CheXpert-v1.0-small/valid/patient64729/study1/view1_frontal.jpg,190
+Lung Lesion,0.6375309228897095,0,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,196
+Lung Lesion,0.6388749480247498,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Lung Lesion,0.6426395177841187,0,CheXpert-v1.0-small/valid/patient64738/study1/view1_frontal.jpg,199
+Lung Lesion,0.6664674878120422,0,CheXpert-v1.0-small/valid/patient64740/study1/view1_frontal.jpg,201
+Lung Opacity,0.6318312883377075,0,CheXpert-v1.0-small/valid/patient64550/study1/view1_frontal.jpg,10
+Lung Opacity,0.7013285756111145,0,CheXpert-v1.0-small/valid/patient64565/study1/view1_frontal.jpg,25
+Lung Opacity,0.6740260720252991,0,CheXpert-v1.0-small/valid/patient64574/study1/view1_frontal.jpg,34
+Lung Opacity,0.667311429977417,0,CheXpert-v1.0-small/valid/patient64575/study1/view1_frontal.jpg,35
+Lung Opacity,0.7132711410522461,0,CheXpert-v1.0-small/valid/patient64577/study1/view1_frontal.jpg,37
+Lung Opacity,0.6274763941764832,0,CheXpert-v1.0-small/valid/patient64581/study1/view1_frontal.jpg,41
+Lung Opacity,0.6998897194862366,0,CheXpert-v1.0-small/valid/patient64585/study1/view1_frontal.jpg,46
+Lung Opacity,0.676544725894928,0,CheXpert-v1.0-small/valid/patient64586/study1/view1_frontal.jpg,47
+Lung Opacity,0.6863333582878113,0,CheXpert-v1.0-small/valid/patient64587/study1/view1_frontal.jpg,48
+Lung Opacity,0.6525281071662903,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Lung Opacity,0.6344789266586304,0,CheXpert-v1.0-small/valid/patient64593/study1/view1_frontal.jpg,54
+Lung Opacity,0.6744927763938904,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Lung Opacity,0.6966477036476135,0,CheXpert-v1.0-small/valid/patient64604/study1/view1_frontal.jpg,65
+Lung Opacity,0.6262686252593994,0,CheXpert-v1.0-small/valid/patient64605/study1/view1_frontal.jpg,66
+Lung Opacity,0.6441518068313599,0,CheXpert-v1.0-small/valid/patient64615/study1/view1_frontal.jpg,76
+Lung Opacity,0.7149195075035095,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Lung Opacity,0.6671437621116638,0,CheXpert-v1.0-small/valid/patient64621/study1/view1_frontal.jpg,82
+Lung Opacity,0.6361091136932373,0,CheXpert-v1.0-small/valid/patient64626/study1/view1_frontal.jpg,87
+Lung Opacity,0.6555150151252747,0,CheXpert-v1.0-small/valid/patient64631/study1/view1_frontal.jpg,92
+Lung Opacity,0.6846149563789368,0,CheXpert-v1.0-small/valid/patient64637/study1/view1_frontal.jpg,98
+Lung Opacity,0.6432077884674072,0,CheXpert-v1.0-small/valid/patient64646/study1/view1_frontal.jpg,107
+Lung Opacity,0.6277993321418762,0,CheXpert-v1.0-small/valid/patient64651/study1/view1_frontal.jpg,112
+Lung Opacity,0.699478268623352,0,CheXpert-v1.0-small/valid/patient64665/study1/view1_frontal.jpg,126
+Lung Opacity,0.6985450983047485,0,CheXpert-v1.0-small/valid/patient64671/study1/view1_frontal.jpg,132
+Lung Opacity,0.6746498942375183,0,CheXpert-v1.0-small/valid/patient64677/study1/view1_frontal.jpg,138
+Lung Opacity,0.7111949920654297,0,CheXpert-v1.0-small/valid/patient64679/study1/view1_frontal.jpg,140
+Lung Opacity,0.6928902864456177,0,CheXpert-v1.0-small/valid/patient64682/study1/view1_frontal.jpg,143
+Lung Opacity,0.7176488637924194,0,CheXpert-v1.0-small/valid/patient64687/study1/view1_frontal.jpg,148
+Lung Opacity,0.6947234272956848,0,CheXpert-v1.0-small/valid/patient64696/study1/view1_frontal.jpg,157
+Lung Opacity,0.7101450562477112,0,CheXpert-v1.0-small/valid/patient64700/study1/view1_frontal.jpg,161
+Lung Opacity,0.6572409868240356,0,CheXpert-v1.0-small/valid/patient64706/study1/view1_frontal.jpg,167
+Lung Opacity,0.6427657008171082,0,CheXpert-v1.0-small/valid/patient64707/study1/view1_frontal.jpg,168
+Lung Opacity,0.648642897605896,0,CheXpert-v1.0-small/valid/patient64708/study1/view1_frontal.jpg,169
+Lung Opacity,0.6705752611160278,0,CheXpert-v1.0-small/valid/patient64710/study1/view1_frontal.jpg,171
+Lung Opacity,0.6470803618431091,0,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,174
+Lung Opacity,0.6871713995933533,0,CheXpert-v1.0-small/valid/patient64719/study1/view1_frontal.jpg,180
+Lung Opacity,0.7092261910438538,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Lung Opacity,0.6853641867637634,0,CheXpert-v1.0-small/valid/patient64726/study1/view1_frontal.jpg,187
+Lung Opacity,0.6815279722213745,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Lung Opacity,0.7025106549263,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
+Lung Opacity,0.6473545432090759,0,CheXpert-v1.0-small/valid/patient64737/study1/view1_frontal.jpg,198
+Enlarged Cardiomediastinum,0.6395972371101379,0,CheXpert-v1.0-small/valid/patient64555/study1/view1_frontal.jpg,15
+Enlarged Cardiomediastinum,0.6420001983642578,0,CheXpert-v1.0-small/valid/patient64560/study1/view1_frontal.jpg,20
+Enlarged Cardiomediastinum,0.6475717425346375,0,CheXpert-v1.0-small/valid/patient64570/study1/view1_frontal.jpg,30
+Enlarged Cardiomediastinum,0.667724072933197,0,CheXpert-v1.0-small/valid/patient64571/study1/view1_frontal.jpg,31
+Enlarged Cardiomediastinum,0.632193922996521,0,CheXpert-v1.0-small/valid/patient64575/study1/view1_frontal.jpg,35
+Enlarged Cardiomediastinum,0.6752449870109558,0,CheXpert-v1.0-small/valid/patient64579/study1/view1_frontal.jpg,39
+Enlarged Cardiomediastinum,0.6255424618721008,0,CheXpert-v1.0-small/valid/patient64581/study1/view1_frontal.jpg,41
+Enlarged Cardiomediastinum,0.659814178943634,0,CheXpert-v1.0-small/valid/patient64582/study1/view1_frontal.jpg,43
+Enlarged Cardiomediastinum,0.6538603901863098,0,CheXpert-v1.0-small/valid/patient64583/study1/view1_frontal.jpg,44
+Enlarged Cardiomediastinum,0.6405168175697327,0,CheXpert-v1.0-small/valid/patient64590/study1/view1_frontal.jpg,51
+Enlarged Cardiomediastinum,0.6817930340766907,0,CheXpert-v1.0-small/valid/patient64598/study1/view1_frontal.jpg,59
+Enlarged Cardiomediastinum,0.6309011578559875,0,CheXpert-v1.0-small/valid/patient64599/study1/view1_frontal.jpg,60
+Enlarged Cardiomediastinum,0.6309423446655273,0,CheXpert-v1.0-small/valid/patient64600/study1/view1_frontal.jpg,61
+Enlarged Cardiomediastinum,0.6276664137840271,0,CheXpert-v1.0-small/valid/patient64602/study1/view1_frontal.jpg,63
+Enlarged Cardiomediastinum,0.64342200756073,0,CheXpert-v1.0-small/valid/patient64607/study1/view1_frontal.jpg,68
+Enlarged Cardiomediastinum,0.6306376457214355,0,CheXpert-v1.0-small/valid/patient64614/study1/view1_frontal.jpg,75
+Enlarged Cardiomediastinum,0.6597252488136292,0,CheXpert-v1.0-small/valid/patient64616/study1/view1_frontal.jpg,77
+Enlarged Cardiomediastinum,0.6903471946716309,0,CheXpert-v1.0-small/valid/patient64620/study1/view1_frontal.jpg,81
+Enlarged Cardiomediastinum,0.630393922328949,0,CheXpert-v1.0-small/valid/patient64629/study1/view1_frontal.jpg,90
+Enlarged Cardiomediastinum,0.6266805529594421,0,CheXpert-v1.0-small/valid/patient64632/study1/view1_frontal.jpg,93
+Enlarged Cardiomediastinum,0.6418530344963074,0,CheXpert-v1.0-small/valid/patient64643/study1/view1_frontal.jpg,104
+Enlarged Cardiomediastinum,0.6453191637992859,0,CheXpert-v1.0-small/valid/patient64645/study1/view1_frontal.jpg,106
+Enlarged Cardiomediastinum,0.6353442072868347,0,CheXpert-v1.0-small/valid/patient64649/study1/view1_frontal.jpg,110
+Enlarged Cardiomediastinum,0.6826093792915344,0,CheXpert-v1.0-small/valid/patient64652/study1/view1_frontal.jpg,113
+Enlarged Cardiomediastinum,0.6348739266395569,0,CheXpert-v1.0-small/valid/patient64659/study1/view1_frontal.jpg,120
+Enlarged Cardiomediastinum,0.6367661356925964,0,CheXpert-v1.0-small/valid/patient64666/study1/view1_frontal.jpg,127
+Enlarged Cardiomediastinum,0.6541562080383301,0,CheXpert-v1.0-small/valid/patient64667/study1/view1_frontal.jpg,128
+Enlarged Cardiomediastinum,0.6323128342628479,0,CheXpert-v1.0-small/valid/patient64670/study1/view1_frontal.jpg,131
+Enlarged Cardiomediastinum,0.6259242296218872,0,CheXpert-v1.0-small/valid/patient64695/study1/view1_frontal.jpg,156
+Enlarged Cardiomediastinum,0.6464177370071411,0,CheXpert-v1.0-small/valid/patient64703/study1/view1_frontal.jpg,164
+Enlarged Cardiomediastinum,0.6605814099311829,0,CheXpert-v1.0-small/valid/patient64704/study1/view1_frontal.jpg,165
+Enlarged Cardiomediastinum,0.6277927160263062,0,CheXpert-v1.0-small/valid/patient64709/study1/view1_frontal.jpg,170
+Enlarged Cardiomediastinum,0.6262308955192566,0,CheXpert-v1.0-small/valid/patient64713/study1/view1_frontal.jpg,174
+Enlarged Cardiomediastinum,0.6564186811447144,0,CheXpert-v1.0-small/valid/patient64715/study1/view1_frontal.jpg,176
+Enlarged Cardiomediastinum,0.6350880265235901,0,CheXpert-v1.0-small/valid/patient64720/study1/view1_frontal.jpg,181
+Enlarged Cardiomediastinum,0.634829580783844,0,CheXpert-v1.0-small/valid/patient64728/study1/view1_frontal.jpg,189
+Enlarged Cardiomediastinum,0.632688045501709,0,CheXpert-v1.0-small/valid/patient64735/study1/view1_frontal.jpg,196
+Enlarged Cardiomediastinum,0.6606701612472534,0,CheXpert-v1.0-small/valid/patient64736/study1/view1_frontal.jpg,197
