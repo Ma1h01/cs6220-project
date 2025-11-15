@@ -158,8 +158,8 @@ def plot_roc_curves(predictions, labels, save_path='roc_curves.png'):
 
 def main():
     # Configuration
-    csv_path = './CheXpert-v1.0-small/valid.csv'
-    img_root = './CheXpert-v1.0-small'
+    csv_path = '../../../CheXpert-v1.0-small/valid.csv'
+    img_root = '../../../CheXpert-v1.0-small'
     batch_size = 16
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     
